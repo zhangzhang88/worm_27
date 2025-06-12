@@ -1,0 +1,145 @@
+.container {
+  font-family: Arial, sans-serif;
+  width: 100%; /* 满屏宽度 */
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #1e1e4f; /* 深蓝色背景 */
+  color: #ffffff; /* 确保文本为白色以提高可读性 */
+}
+
+.title {
+  text-align: center;
+  text-shadow: none; /* 去掉标题阴影 */
+}
+
+.wordList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.wordItem {
+  margin: 10px 0;
+  display: flex;
+  justify-content: center; /* 使内容居中 */
+}
+
+.wordContainer {
+  display: flex;
+  flex-direction: column; /* 垂直排列单词和中文 */
+  width: 80%; /* 占屏幕宽度的80% */
+  position: relative; /* 为绝对定位的选项提供参考 */
+}
+
+.inputWrapper {
+  background-color: #2a2a2a; /* 深色背景 */
+  padding: 15px; /* 增加内边距 */
+  border-radius: 5px;
+  width: 100%; /* 大框宽度占满 */
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* 输入框间距 */
+}
+
+.editInput {
+  font-size: 24px; /* 增大字号 */
+  height: 50px; /* 输入框高度 */
+  width: 100%; /* 使输入框宽度占满容器 */
+  color: white; /* 输入框文本颜色 */
+  background-color: #3c3c3c; /* 深色输入框背景 */
+  text-align: center; /* 内容居中 */
+  border: none; /* 去掉边框 */
+  border-radius: 5px; /* 圆角 */
+  outline: none; /* 去掉聚焦时的白色线框 */
+}
+
+.separator {
+  display: none; /* 移除分隔线 */
+}
+
+.optionsDropdown {
+  background-color: #2a2a2a; /* 深色背景 */
+  border: 1px solid #fff; /* 白色边框 */
+  border-radius: 5px; /* 圆角 */
+  padding: 5px; /* 内边距 */
+  display: flex; /* 使用 flexbox */
+  flex-direction: column; /* 垂直排列按钮 */
+  gap: 5px; /* 按钮之间的间距 */
+  position: absolute; /* 绝对定位 */
+  right: 10px; /* 靠右 */
+  top: 10px; /* 靠上 */
+}
+
+.optionsDropdown button {
+  background: none; /* 无背景 */
+  border: none; /* 无边框 */
+  color: white; /* 颜色为白色 */
+  padding: 5px; /* 缩小按钮内边距 */
+  font-size: 14px; /* 缩小按钮字体大小 */
+  cursor: pointer; /* 鼠标悬停变成指针 */
+}
+
+.optionsDropdown button:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* 悬停时变淡 */
+}
+
+.saveButton {
+  padding: 8px 12px;
+  margin: 5px;
+  border: none;
+  border-radius: 3px;
+  background-color: #27ae60;
+  color: white;
+  cursor: pointer;
+}
+
+.saveButton:hover {
+  background-color: #219653;
+}
+
+.homeLink {
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+  color: #3498db;
+  text-decoration: none;
+}
+
+.homeLink:hover {
+  text-decoration: underline;
+}
+.countDisplay {
+  text-align: right; /* 右对齐 */
+  margin-bottom: 10px; /* 底部间距 */
+  font-size: 16px; /* 字体大小 */
+  color: #ffffff; /* 字体颜色 */
+}
+.wordContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.inputWrapper {
+  display: flex;
+  width: 100%;
+}
+
+.optionsContainer {
+  width: 100%;
+}
+
+.optionsRight {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.optionsRight button {
+  margin-left: 5px;
+}
+
+.separator {
+  width: 100%;
+  margin: 5px 0;
+}

@@ -1,0 +1,828 @@
+1
+It
+它
+/ɪt/
+2
+is
+是
+/ɪz/
+3
+a pity
+遗憾
+/eɪ/ /'pɪti/
+4
+It is a pity
+真遗憾
+/ɪt/ /ɪz/ /eɪ/ /'pɪti/
+5
+that
+那
+/ðæt/
+6
+all
+所有
+/ɔːl/
+7
+the tickets
+机票
+/ði/ /'tɪkɪts/
+8
+all the tickets
+所有机票
+/ɔːl/ /ði/ /'tɪkɪts/
+9
+for
+对于
+/fɔːr/
+10
+the airline
+航空公司
+/ði/ /ˈerˌlaɪn/
+11
+for the airline
+对于航空公司
+/fɔːr/ /ði/ /ˈerˌlaɪn/
+12
+from
+从
+/frʌm/
+13
+Beijing
+北京
+/beɪˈdʒɪŋ/
+14
+to
+到
+/tu/
+15
+Shanghai
+上海
+/ʃæŋˈhaɪ/
+16
+from Beijing to Shanghai
+从北京到上海
+/frʌm/ /beɪˈdʒɪŋ/ /tu/ /ʃæŋˈhaɪ/
+17
+have been
+已经
+/hæv/ /bin/
+18
+sold out
+售罄
+/sold/ /aʊt/
+19
+have been sold out
+已售罄
+/hæv/ /bin/ /sold/ /aʊt/
+20
+that all the tickets for the airline from Beijing to Shanghai have been sold out
+从北京到上海的航空公司所有机票都已售罄
+/ðæt/ /ɔːl/ /ði/ /'tɪkɪts/ /fɔːr/ /ði/ /ˈerˌlaɪn/ /frʌm/ /beɪˈdʒɪŋ/ /tu/ /ʃæŋˈhaɪ/ /hæv/ /bin/ /sold/ /aʊt/
+21
+It is a pity that all the tickets for the airline from Beijing to Shanghai have been sold out
+真遗憾，从北京到上海的航空公司所有机票都已售罄
+/ɪt/ /ɪz/ /eɪ/ /'pɪti/ /ðæt/ /ɔːl/ /ði/ /'tɪkɪts/ /fɔːr/ /ði/ /ˈerˌlaɪn/ /frʌm/ /beɪˈdʒɪŋ/ /tu/ /ʃæŋˈhaɪ/ /hæv/ /bin/ /sold/ /aʊt/
+22
+She
+她
+/ʃiː/
+23
+was
+是
+/wɑz/
+24
+a bit
+有点
+/eɪ/ /bɪt/
+25
+sad
+难过
+/sæd/
+26
+a bit sad
+有点难过
+/eɪ/ /bɪt/ /sæd/
+27
+was a bit sad
+有点难过
+/wɑz/ /eɪ/ /bɪt/ /sæd/
+28
+when
+当
+/hwen/
+29
+she
+她
+/ʃiː/
+30
+read
+读
+/rɛd/
+31
+the headline
+头条
+/ði/ /'hɛdlaɪn/
+32
+of
+的
+/ɑːv/
+33
+the newspaper
+报纸
+/ði/ /ˈnuːzpeɪpər/
+34
+of the newspaper
+报纸的
+/ɑːv/ /ði/ /ˈnuːzpeɪpər/
+35
+the headline of the newspaper
+报纸的头条
+/ði/ /'hɛdlaɪn/ /ɑːv/ /ði/ /ˈnuːzpeɪpər/
+36
+she read the headline of the newspaper
+她读到报纸的头条
+/ʃiː/ /rɛd/ /ði/ /'hɛdlaɪn/ /ɑːv/ /ði/ /ˈnuːzpeɪpər/
+37
+when she read the headline of the newspaper
+当她读到报纸的头条时
+/hwen/ /ʃiː/ /rɛd/ /ði/ /'hɛdlaɪn/ /ɑːv/ /ði/ /ˈnuːzpeɪpər/
+38
+She was a bit sad when she read the headline of the newspaper
+她读到报纸的头条时有点难过
+/ʃiː/ /wɑz/ /eɪ/ /bɪt/ /sæd/ /hwen/ /ʃiː/ /rɛd/ /ði/ /'hɛdlaɪn/ /ɑːv/ /ði/ /ˈnuːzpeɪpər/
+39
+As
+作为
+/æ/
+40
+a
+一个
+/eɪ/
+41
+top student
+顶尖学生
+/tɑːp/ /ˈstuːdnt/
+42
+a top student
+一个顶尖学生
+/eɪ/ /tɑːp/ /ˈstuːdnt/
+43
+As a top student
+作为一个顶尖学生
+/æ/ /eɪ/ /tɑːp/ /ˈstuːdnt/
+44
+you
+你
+/juː/
+45
+should
+应该
+/ʃʊd/
+46
+feel
+感到
+/fiːl/
+47
+should feel
+应该感到
+/ʃʊd/ /fiːl/
+48
+a
+一个
+/eɪ/
+49
+deep
+深深的
+/dip/
+50
+sense
+感觉
+/sɛns/
+51
+of
+的
+/ɑːv/
+52
+shame
+羞耻
+/ʃeɪm/
+53
+of shame
+的羞耻
+/ɑːv/ /ʃeɪm/
+54
+deep sense of shame
+深深的羞耻
+/dip/ /sɛns/ /ɑːv/ /ʃeɪm/
+55
+a deep sense of shame
+深深的羞耻
+/eɪ/ /dip/ /sɛns/ /ɑːv/ /ʃeɪm/
+56
+you should feel a deep sense of shame
+你应该感到深深的羞耻
+/juː/ /ʃʊd/ /fiːl/ /eɪ/ /dip/ /sɛns/ /ɑːv/ /ʃeɪm/
+57
+for
+因为
+/fɔːr/
+58
+you
+你
+/juː/
+59
+haven't
+没
+/ˈhævənt/
+60
+handed in
+交
+/ˈhændɪd/ /ɪn/
+61
+haven't handed in
+没交
+/ˈhævənt/ /ˈhændɪd/ /ɪn/
+62
+your
+你的
+/jʊr/
+63
+homework
+作业
+/ˈhoʊmˌwɜrk/
+64
+your homework
+你的作业
+/jʊr/ /ˈhoʊmˌwɜrk/
+65
+for
+几天
+/fɔːr/
+66
+several
+几
+/'sev(ə)r(ə)l/
+67
+days
+天
+/deɪ/
+68
+several days
+几天
+/'sev(ə)r(ə)l/ /deɪ/
+69
+for several days
+几天
+/fɔːr/ /'sev(ə)r(ə)l/ /deɪ/
+70
+you haven't handed in your homework for several days
+你几天没交作业
+/juː/ /ˈhævənt/ /ˈhændɪd/ /ɪn/ /jʊr/ /ˈhoʊmˌwɜrk/ /fɔːr/ /'sev(ə)r(ə)l/ /deɪ/
+71
+for you haven't handed in your homework for several days
+因为你几天没交作业
+/fɔːr/ /juː/ /ˈhævənt/ /ˈhændɪd/ /ɪn/ /jʊr/ /ˈhoʊmˌwɜrk/ /fɔːr/ /'sev(ə)r(ə)l/ /deɪ/
+72
+As a top student , you should feel a deep sense of shame for you haven't handed in your homework for several days
+作为一个顶尖学生，你应该为你几天没交作业感到深深的羞耻
+/æ/ /eɪ/ /tɑːp/ /ˈstuːdnt/ /juː/ /ʃʊd/ /fiːl/ /eɪ/ /dip/ /sɛns/ /ɑːv/ /ʃeɪm/ /fɔːr/ /juː/ /ˈhævənt/ /ˈhændɪd/ /ɪn/ /jʊr/ /ˈhoʊmˌwɜrk/ /fɔːr/ /'sev(ə)r(ə)l/ /deɪ/
+73
+The mother
+母亲
+/ði/ /ˈmʌðər/
+74
+had lay
+已经摆好
+/hæd/ /leɪ/
+75
+the table
+桌子
+/ði/ /ˈteɪbl/
+76
+The mother had lay the table
+母亲已经摆好桌子
+/ði/ /ˈmʌðər/ /hæd/ /leɪ/ /ði/ /ˈteɪbl/
+77
+and hoped
+并且希望
+/ænd/ /hóʊpt/
+78
+his son
+她的儿子
+/hɪz/ /sʌn/
+79
+would knock at the door
+能敲门
+/wʊd/ /nɑːk/ /æt/ /ði/ /dɔr/
+80
+as soon as possible
+尽快
+/æ/ /suːn/ /æ/ /ˈpɑːsəbl/
+81
+that his son would knock at the door as soon as possible
+她的儿子能尽快敲门
+/ðæt/ /hɪz/ /sʌn/ /wʊd/ /nɑːk/ /æt/ /ði/ /dɔr/ /æ/ /suːn/ /æ/ /ˈpɑːsəbl/
+82
+and hoped that his son would knock at the door as soon as possible
+并且希望她的儿子能尽快敲门
+/ænd/ /hóʊpt/ /ðæt/ /hɪz/ /sʌn/ /wʊd/ /nɑːk/ /æt/ /ði/ /dɔr/ /æ/ /suːn/ /æ/ /ˈpɑːsəbl/
+83
+The mother had lay the table and hoped that his son would knock at the door as soon as possible
+母亲已经摆好桌子，希望她的儿子能尽快敲门
+/ði/ /ˈmʌðər/ /hæd/ /leɪ/ /ði/ /ˈteɪbl/ /ænd/ /hóʊpt/ /ðæt/ /hɪz/ /sʌn/ /wʊd/ /nɑːk/ /æt/ /ði/ /dɔr/ /æ/ /suːn/ /æ/ /ˈpɑːsəbl/
+84
+Finally
+最后
+/'faɪnəli/
+85
+the
+这个
+/ði/
+86
+scientist
+科学家
+/ˈsaɪən·tɪst/
+87
+the scientist
+科学家
+/ði/ /ˈsaɪən·tɪst/
+88
+not only
+不仅
+/nɑt/ /ˈoʊnli/
+89
+discovered
+发现
+/dɪˈskʌvərd/
+90
+a
+一个
+/eɪ/
+91
+new
+新的
+/nuː/
+92
+disease
+疾病
+/dɪˈziːz/
+93
+a new disease
+一种新疾病
+/eɪ/ /nuː/ /dɪˈziːz/
+94
+not only discovered a new disease
+不仅发现了一种新疾病
+/nɑt/ /ˈoʊnli/ /dɪˈskʌvərd/ /eɪ/ /nuː/ /dɪˈziːz/
+95
+but also
+还
+/bʌt/ /'ɔːls.oʊ/
+96
+invented
+发明
+/ɪnˈvɛn.tɪd/
+97
+new
+新的
+/nuː/
+98
+medicine
+药
+/'medɪsɪn/
+99
+against
+针对
+/əˈɡenst/
+100
+it
+它
+/ɪt/
+101
+against it
+针对它
+/əˈɡenst/ /ɪt/
+102
+new medicine against it
+针对它的新药
+/nuː/ /'medɪsɪn/ /əˈɡenst/ /ɪt/
+103
+but also invented new medicine against it
+还发明了针对它的新药
+/bʌt/ /'ɔːls.oʊ/ /ɪnˈvɛn.tɪd/ /nuː/ /'medɪsɪn/ /əˈɡenst/ /ɪt/
+104
+Finally the scientist not only discovered a new disease but also invented new medicine against it
+最后，科学家不仅发现了一种新疾病，还发明了针对它的新药
+/'faɪnəli/ /ði/ /ˈsaɪən·tɪst/ /nɑt/ /ˈoʊnli/ /dɪˈskʌvərd/ /eɪ/ /nuː/ /dɪˈziːz/ /bʌt/ /'ɔːls.oʊ/ /ɪnˈvɛn.tɪd/ /nuː/ /'medɪsɪn/ /əˈɡenst/ /ɪt/
+105
+Even in his fifties
+即使在他五十多岁的时候
+/'ivən/ /ɪn/ /hɪz/ /'fɪftiz/
+106
+the old man
+这位老人
+/ði/ /oʊld/ /mæn/
+107
+still
+仍然
+/stɪl/
+108
+keeps
+坚持
+/kipz/
+109
+getting up
+起床
+/ˈɡɛtɪŋ/ /ʌp/
+110
+early
+早
+/ˈɝːli/
+111
+getting up early
+早起
+/ˈɡɛtɪŋ/ /ʌp/ /ˈɝːli/
+112
+keeps getting up early
+坚持早起
+/kipz/ /ˈɡɛtɪŋ/ /ʌp/ /ˈɝːli/
+113
+still keeps getting up early
+仍然坚持早起
+/stɪl/ /kipz/ /ˈɡɛtɪŋ/ /ʌp/ /ˈɝːli/
+114
+and
+并
+/ænd/
+115
+having a walk
+散步
+/ˈhævɪŋ/ /eɪ/ /wɔːk/
+116
+for one hour
+一小时
+/fɔːr/ /wʌn/ /'aʊər/
+117
+having a walk for one hour
+散步一小时
+/ˈhævɪŋ/ /eɪ/ /wɔːk/ /fɔːr/ /wʌn/ /'aʊər/
+118
+and having a walk for one hour
+并散步一小时
+/ænd/ /ˈhævɪŋ/ /eɪ/ /wɔːk/ /fɔːr/ /wʌn/ /'aʊər/
+119
+in order to keep fit
+为了保持健康
+/ɪn/ /'ɔrdər/ /tu/ /kip/ /fɪt/
+120
+Even in his fifties , the old man still keeps getting up early and having a walk for one hour in order to keep fit
+即使在他五十多岁的时候，这位老人仍然坚持早起并散步一小时以保持健康
+/'ivən/ /ɪn/ /hɪz/ /'fɪftiz/ /ði/ /oʊld/ /mæn/ /stɪl/ /kipz/ /ˈɡɛtɪŋ/ /ʌp/ /ˈɝːli/ /ænd/ /ˈhævɪŋ/ /eɪ/ /wɔːk/ /fɔːr/ /wʌn/ /'aʊər/ /ɪn/ /'ɔrdər/ /tu/ /kip/ /fɪt/
+121
+Every Sunday
+每个星期天
+/ˈɛv·ər·i/ /'sʌndeɪ/
+122
+the little girl
+小女孩
+/ði/ /ˈlɪt.l̩/ /ɡɝːl/
+123
+has to have
+必须有
+/hæz/ /tu/ /hæv/
+124
+a piano lesson
+钢琴课
+/eɪ/ /pɪˈænoʊ/ /'les.n/
+125
+after
+在...之后
+/ˈæftər/
+126
+she
+她
+/ʃiː/
+127
+completes
+完成
+/kəmˈpliːts/
+128
+her homework
+她的作业
+/hɜːr/ /ˈhoʊmˌwɜrk/
+129
+she completes her homework
+她完成作业
+/ʃiː/ /kəmˈpliːts/ /hɜːr/ /ˈhoʊmˌwɜrk/
+130
+after she completes her homework
+在她完成作业后
+/ˈæftər/ /ʃiː/ /kəmˈpliːts/ /hɜːr/ /ˈhoʊmˌwɜrk/
+131
+Every Sunday , the little girl has to have a piano lesson after she completes her homework
+每个星期天，小女孩必须在完成作业后上钢琴课
+/ˈɛv·ər·i/ /'sʌndeɪ/ /ði/ /ˈlɪt.l̩/ /ɡɝːl/ /hæz/ /tu/ /hæv/ /eɪ/ /pɪˈænoʊ/ /'les.n/ /ˈæftər/ /ʃiː/ /kəmˈpliːts/ /hɜːr/ /ˈhoʊmˌwɜrk/
+132
+In
+在
+/ɪn/
+133
+most
+大多数
+/mowst/
+134
+American
+美国的
+/əˈmerɪkən/
+135
+families
+家庭
+/'fæməliz/
+136
+American families
+美国家庭
+/əˈmerɪkən/ /'fæməliz/
+137
+most American families
+大多数美国家庭
+/mowst/ /əˈmerɪkən/ /'fæməliz/
+138
+In most American families
+在大多数美国家庭中
+/ɪn/ /mowst/ /əˈmerɪkən/ /'fæməliz/
+139
+every
+每个
+/ˈɛv·ər·i/
+140
+family
+家庭
+/ˈfæməli/
+141
+member
+成员
+/ˈmɛmbɚ/
+142
+family member
+家庭成员
+/ˈfæməli/ /ˈmɛmbɚ/
+143
+every family member
+每个家庭成员
+/ˈɛv·ər·i/ /ˈfæməli/ /ˈmɛmbɚ/
+144
+is responsible for
+负责
+/ɪz/ /rɪˈspɑːnsəbl̩/ /fɔːr/
+145
+housework
+家务
+/'haʊswɝk/
+146
+is responsible for housework
+负责家务
+/ɪz/ /rɪˈspɑːnsəbl̩/ /fɔːr/ /'haʊswɝk/
+147
+every family member is responsible for housework
+每个家庭成员都负责家务
+/ˈɛv·ər·i/ /ˈfæməli/ /ˈmɛmbɚ/ /ɪz/ /rɪˈspɑːnsəbl̩/ /fɔːr/ /'haʊswɝk/
+148
+except
+除了
+/ɪkˈsɛpt/
+149
+the
+这
+/ði/
+150
+babies
+婴儿
+/ˈbeɪbiz/
+151
+the babies
+婴儿
+/ði/ /ˈbeɪbiz/
+152
+the
+这
+/ði/
+153
+ill
+病人
+/ɪl/
+154
+the ill
+病人
+/ði/ /ɪl/
+155
+the
+这
+/ði/
+156
+aged
+老人
+/eɪdʒd/
+157
+the aged
+老人
+/ði/ /eɪdʒd/
+158
+the babies , the ill and the aged
+婴儿、病人和老人
+/ði/ /ˈbeɪbiz/ /ði/ /ɪl/ /ænd/ /ði/ /eɪdʒd/
+159
+except the babies , the ill and the aged
+除了婴儿、病人和老人
+/ɪkˈsɛpt/ /ði/ /ˈbeɪbiz/ /ði/ /ɪl/ /ænd/ /ði/ /eɪdʒd/
+160
+In most American families , every family member is responsible for housework except the babies , the ill and the aged
+在大多数美国家庭中，除了婴儿、病人和老人外，每个家庭成员都负责家务
+/ɪn/ /mowst/ /əˈmerɪkən/ /'fæməliz/ /ˈɛv·ər·i/ /ˈfæməli/ /ˈmɛmbɚ/ /ɪz/ /rɪˈspɑːnsəbl̩/ /fɔːr/ /'haʊswɝk/ /ɪkˈsɛpt/ /ði/ /ˈbeɪbiz/ /ði/ /ɪl/ /ænd/ /ði/ /eɪdʒd/
+161
+Every year on average
+每年平均
+/ˈɛv·ər·i/ /jɪr/ /ɑːn/ /ˈævərɪdʒ/
+162
+five million people all over the world
+五百万人在世界各地
+/faɪv/ /'mɪljən/ /'pipəl/ /ɔːl/ /oʊvər/ /ði/ /wɜːrd/
+163
+die of smoking
+死于吸烟
+/daɪ/ /ɑːv/ /'smoʊkɪŋ/
+164
+so
+所以
+/soʊ/
+165
+you should give it up as soon as possible
+你应该尽快戒烟
+/juː/ /ʃʊd/ /ɡɪv/ /ɪt/ /ʌp/ /æ/ /suːn/ /æ/ /ˈpɑːsəbl/
+166
+Every year on average , five million people all over the world die of smoking so you should give it up as soon as possible
+每年平均有五百万人在世界各地死于吸烟，所以你应该尽快戒烟
+/ˈɛv·ər·i/ /jɪr/ /ɑːn/ /ˈævərɪdʒ/ /faɪv/ /'mɪljən/ /'pipəl/ /ɔːl/ /oʊvər/ /ði/ /wɜːrd/ /daɪ/ /ɑːv/ /'smoʊkɪŋ/ /soʊ/ /juː/ /ʃʊd/ /ɡɪv/ /ɪt/ /ʌp/ /æ/ /suːn/ /æ/ /ˈpɑːsəbl/
+167
+Students
+学生
+/ˈstuːdnts/
+168
+in
+在
+/ɪn/
+169
+big
+大
+/bɪɡ/
+170
+cities
+城市
+/'sɪtiz/
+171
+big cities
+大城市
+/bɪɡ/ /'sɪtiz/
+172
+in big cities
+在大城市
+/ɪn/ /bɪɡ/ /'sɪtiz/
+173
+like
+喜欢
+/laɪk/
+174
+to
+到
+/tu/
+175
+bring
+带
+/brɪŋ/
+176
+to bring
+带
+/tu/ /brɪŋ/
+177
+like to bring
+喜欢带
+/laɪk/ /tu/ /brɪŋ/
+178
+the
+这
+/ði/
+179
+latest
+最新的
+/'letɪst/
+180
+the latest
+最新的
+/ði/ /'letɪst/
+181
+high-tech
+高科技的
+/haɪ/
+182
+things
+产品
+/ˈθɪŋz/
+183
+high-tech things
+高科技产品
+/haɪ/ /ˈθɪŋz/
+184
+the latest high-tech things
+最新的高科技产品
+/ði/ /'letɪst/ /haɪ/ /ˈθɪŋz/
+185
+to
+到
+/tu/
+186
+school
+学校
+/skul/
+187
+to school
+到学校
+/tu/ /skul/
+188
+Students in big cities like to bring the latest high-tech things to school
+大城市的学生喜欢把最新的高科技产品带到学校
+/ˈstuːdnts/ /ɪn/ /bɪɡ/ /'sɪtiz/ /laɪk/ /tu/ /brɪŋ/ /ði/ /'letɪst/ /haɪ/ /ˈθɪŋz/ /tu/ /skul/
+189
+and
+和
+/ænd/
+190
+feel
+感到
+/fiːl/
+191
+happy
+高兴
+/ˈhæpi/
+192
+and
+和
+/ænd/
+193
+pleased
+满意
+/pliːzd/
+194
+feel happy and pleased
+感到高兴和满意
+/fiːl/ /ˈhæpi/ /ænd/ /pliːzd/
+195
+to
+到
+/tu/
+196
+show
+展示
+/ʃoʊ/
+197
+off
+出
+/ɒf/
+198
+show off
+炫耀
+/ʃoʊ/ /ɒf/
+199
+to show off
+炫耀
+/tu/ /ʃoʊ/ /ɒf/
+200
+these
+这些
+/θiːz/
+201
+things
+物品
+/ˈθɪŋz/
+202
+these things
+这些物品
+/θiːz/ /ˈθɪŋz/
+203
+to
+向
+/tu/
+204
+others
+别人
+/ˈʌðərz/
+205
+to others
+向别人
+/tu/ /ˈʌðərz/
+206
+and feel happy and pleased to show off these things to others
+并感到高兴和满意地向别人炫耀这些物品
+/ænd/ /fiːl/ /ˈhæpi/ /ænd/ /pliːzd/ /tu/ /ʃoʊ/ /ɒf/ /θiːz/ /ˈθɪŋz/ /tu/ /ˈʌðərz/
+207
+Students in big cities like to bring the latest high-tech things to school , and feel happy and pleased to show off these things to others
+大城市的学生喜欢把最新的高科技产品带到学校，并感到高兴和满意地向别人炫耀这些物品
+/ˈstuːdnts/ /ɪn/ /bɪɡ/ /'sɪtiz/ /laɪk/ /tu/ /brɪŋ/ /ði/ /'letɪst/ /haɪ/ /ˈθɪŋz/ /tu/ /skul/ /ænd/ /fiːl/ /ˈhæpi/ /ænd/ /pliːzd/ /tu/ /ʃoʊ/ /ɒf/ /θiːz/ /ˈθɪŋz/ /tu/ /ˈʌðərz/

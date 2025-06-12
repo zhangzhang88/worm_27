@@ -1,0 +1,508 @@
+1
+to solve
+解决
+/tə/ /sɔlv/
+2
+solved
+解决(ed形式)
+/sɔlvd/
+3
+be solved
+被解决
+/bi/ /sɔlvd/
+4
+the problem
+那个问题
+/ðə/ /'prɑbləm/
+5
+the problem is solved
+那个问题被解决
+/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/
+6
+has been solved
+(已经)被解决
+/hæz/ /bɪn/ /sɔlvd/
+7
+the problem has been solved
+那个问题(已经)被解决
+/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/
+8
+had been solved
+(过去已经)被解决
+/hæd/ /bɪn/ /sɔlvd/
+9
+the problem had been solved
+那个问题(过去已经)被解决
+/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/
+10
+by him
+通过他
+/baɪ/ /hɪm/
+11
+the problem had been solved by him
+那个问题(过去已经)通过他被解决
+/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/
+12
+else
+其他
+/ɛls/
+13
+anyone
+任何人
+/'ɛnɪwʌn/
+14
+anyone else
+其他任何人
+/'ɛnɪwʌn/ /ɛls/
+15
+to notice
+注意到
+/tə/ /ˈnotɪs/
+16
+noticed
+注意到(过去)
+/ˈnotɪst/
+17
+it
+它
+/ɪt/
+18
+noticed it
+注意到(过去)它
+/ˈnotɪst/ /ɪt/
+19
+anyone else noticed it
+其他任何人注意到(过去)它
+/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/
+20
+before
+在......之前
+/bɪ'fɔr/
+21
+before anyone else noticed it
+在其他任何人注意到(过去)它之前
+/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/
+22
+the problem had been solved by him
+那个问题(过去已经)被他解决
+/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/
+23
+the problem had been solved by him before anyone else noticed it
+在其他任何人注意到(过去)它之前那个问题(过去已经)被他解决
+/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/
+24
+to paint
+粉刷
+/tə/ /pent/
+25
+painted
+粉刷(ed形式)
+/ˈpentɪd/
+26
+be painted
+被粉刷
+/bi/ /ˈpentɪd/
+27
+has been painted
+(已经)被粉刷
+/hæz/ /bɪn/ /ˈpentɪd/
+28
+had been painted
+(过去已经)被粉刷
+/hæd/ /bɪn/ /ˈpentɪd/
+29
+the house
+那个房子
+/ðə/ /haʊs/
+30
+the house had been painted
+那个房子(过去已经)被粉刷
+/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/
+31
+to move
+搬
+/tə/ /muv/
+32
+moved
+搬(过去)
+/muvd/
+33
+they moved
+他们搬(过去)
+/ðe/ /muvd/
+34
+in
+往里面
+/ɪn/
+35
+they moved in
+他们搬(过去)进去
+/ðe/ /muvd/ /ɪn/
+36
+before
+在......之前
+/bɪ'fɔr/
+37
+before they moved in
+在他们搬(过去)进去之前
+/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/
+38
+the house had been painted
+那个房子(过去已经)被粉刷
+/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/
+39
+the house had been painted before they moved in
+在他们搬(过去)进去之前那个房子(过去已经)被粉刷
+/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/
+40
+to build
+建造
+/tə/ /bɪld/
+41
+building
+建筑物
+/'bɪldɪŋ/
+42
+the building
+那个建筑物
+/ðə/ /'bɪldɪŋ/
+43
+to evacuate
+疏散
+/tə/ /ɪˈvækjuet/
+44
+evacuated
+疏散(ed形式)
+/ɪˈvækjuetɪd/
+45
+be evacuated
+被疏散
+/bi/ /ɪˈvækjuetɪd/
+46
+had been evacuated
+(过去已经)被疏散
+/hæd/ /bɪn/ /ɪˈvækjuetɪd/
+47
+the building had been evacuated
+那个建筑物(过去已经)被疏散
+/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/
+48
+fire
+火
+/ˈfaɪər/
+49
+to spread
+蔓延
+/tə/ /sprɛd/
+50
+spread
+蔓延(过去)
+/sprɛd/
+51
+the fire spread
+火势蔓延(过去)
+/ðə/ /ˈfaɪər/ /sprɛd/
+52
+before
+在......之前
+/bɪ'fɔr/
+53
+before the fire spread
+在火势蔓延(过去)之前
+/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/
+54
+the building had been evacuated
+那个建筑物(过去已经)被疏散
+/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/
+55
+the building had been evacuated before the fire spread
+在火势蔓延(过去)之前那个建筑物(过去已经)被疏散
+/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/
+56
+to park
+停车
+/tə/ /pɑrk/
+57
+parked
+停车(ed形式)
+/pɑrkt/
+58
+had been parked
+(过去已经)被停
+/hæd/ /bɪn/ /pɑrkt/
+59
+the car
+那辆车
+/ðə/ /kɑr/
+60
+the car had been parked
+那辆车(过去已经)被停
+/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/
+61
+garage
+车库
+/ɡəˈrɑʒ/
+62
+in the garage
+在车库里
+/ɪn/ /ðə/ /ɡəˈrɑʒ/
+63
+the car had been parked in the garage
+那辆车(过去已经)被停在车库里
+/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/
+64
+storm
+暴风雨
+/stɔrm/
+65
+before
+在......之前
+/bɪ'fɔr/
+66
+before the storm
+在暴风雨之前
+/bɪ'fɔr/ /ðə/ /stɔrm/
+67
+the car had been parked in the garage before the storm
+在暴风雨之前那辆车(过去已经)被停在车库里
+/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/
+68
+to constructe
+建造
+/tə/ /kənˈstrʌkt/
+69
+constructed
+建造(ed形式)
+/kənˈstrʌktɪd/
+70
+be constructed
+被建造
+/bi/ /kənˈstrʌktɪd/
+71
+had been constructed
+(过去已经)被建造
+/hæd/ /bɪn/ /kənˈstrʌktɪd/
+72
+the bridge
+那座桥
+/ðə/ /brɪdʒ/
+73
+the bridge had been constructed
+那座桥(过去已经)被建造
+/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/
+74
+rain
+雨
+/ren/
+75
+rainy
+多雨的
+/'reni/
+76
+season
+季节
+/'sizn/
+77
+rainy season
+雨季
+/'reni/ /'sizn/
+78
+before
+在......之前
+/bɪ'fɔr/
+79
+before the rainy season
+在雨季之前
+/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/
+80
+the bridge had been constructed
+那座桥(过去已经)被建造
+/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/
+81
+the bridge had been constructed before the rainy season
+在雨季之前那座桥(过去已经)被建造
+/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/
+82
+to correct
+纠正
+/tə/ /kə'rɛkt/
+83
+corrected
+纠正(ed形式)
+/kə'rɛktɪd/
+84
+be corrected
+被纠正
+/bi/ /kə'rɛktɪd/
+85
+had been corrected
+(过去已经)被纠正
+/hæd/ /bɪn/ /kə'rɛktɪd/
+86
+error
+错误
+/ˈɛrər/
+87
+the error had been corrected
+那个错误(过去已经)被纠正
+/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/
+88
+to submit
+提交
+/tə/ /səbˈmɪt/
+89
+submitted
+提交(ed形式)
+/səbˈmɪtɪd/
+90
+be submitted
+被提交
+/bi/ /səbˈmɪtɪd/
+91
+report
+报告
+/rɪ'pɔrt/
+92
+the report was submitted
+那个报告(过去)被提交
+/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/
+93
+before
+在......之前
+/bɪ'fɔr/
+94
+before the report was submitted
+在那个报告(过去)被提交之前
+/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/
+95
+the error had been corrected
+那个错误(过去已经)被纠正
+/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/
+96
+the error had been corrected before the report was submitted
+在那个报告(过去)被提交之前那个错误(过去已经)被纠正
+/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/
+97
+to sell
+卖
+/tə/ /sɛl/
+98
+to sell out
+卖光
+/tə/ /sɛl/ /aʊt/
+99
+sold out
+卖光(ed形式)
+/sold/ /aʊt/
+100
+be sold out
+被卖光
+/bi/ /sold/ /aʊt/
+101
+had been sold out
+(过去已经)被卖光了
+/hæd/ /bɪn/ /sold/ /aʊt/
+102
+ticket
+票
+/'tɪkɪt/
+103
+the tickets
+那些票
+/ðə/ /'tɪkɪts/
+104
+the tickets had been sold out
+那些票(过去已经)被卖光了
+/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/
+105
+to arrive
+到达
+/tə/ /ə'raɪv/
+106
+arrived
+达到(过去)
+/ə'raɪvd/
+107
+we arrived
+我们到达(过去)
+/wi/ /ə'raɪvd/
+108
+the time
+时间
+/ðə/ /taɪm/
+109
+the time we arrived
+我们到达(过去)的时间
+/ðə/ /taɪm/ /wi/ /ə'raɪvd/
+110
+by the time we arrived
+在我们到达(过去)的时间
+/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/
+111
+the tickets had been sold out
+那些票(过去已经)被卖光了
+/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/
+112
+the tickets had been sold out by the time we arrived
+在我们到达(过去)的时间那些票(过去已经)被卖光了
+/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/
+113
+to change
+改变
+/tə/ /tʃendʒ/
+114
+changed
+改变(ed形式)
+/tʃendʒd/
+115
+be changed
+被改变
+/bi/ /tʃendʒd/
+116
+had been changed
+(过去已经)被改变
+/hæd/ /bɪn/ /tʃendʒd/
+117
+password
+密码
+/ˈpæswɝd/
+118
+the password had been changed
+那个密码(过去已经)被改变
+/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/
+119
+to hack
+非法入侵
+/tə/ /hæk/
+120
+hacked
+非法入侵(ed形式)
+/hækt/
+121
+be hacked
+被非法入侵
+/bi/ /hækt/
+122
+system
+系统
+/ˈsɪstəm/
+123
+the system was hacked
+系统被(过去)非法入侵
+/ðə/ /ˈsɪstəm/ /wəz/ /hækt/
+124
+before
+在......之前
+/bɪ'fɔr/
+125
+before the system was hacked
+在系统被(过去)非法入侵之前
+/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/
+126
+the password had been changed
+那个密码(过去已经)被改变
+/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/
+127
+the password had been changed before the system was hacked
+在系统被(过去)非法入侵之前那个密码(过去已经)被改变
+/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/

@@ -1,0 +1,560 @@
+1
+She
+她
+/ʃiː; ʃi/
+2
+said
+说
+/sed/
+3
+She said
+她说
+/ʃiː; ʃi/ /sed/
+4
+she
+她
+/ʃiː; ʃi/
+5
+would have been studying
+会一直在学习
+/wʊd/ /hæv/ /bɪn/ /ˈstʌdiɪŋ/
+6
+she would have been studying
+她会一直在学习
+/ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈstʌdiɪŋ/
+7
+She said she would have been studying
+她说她会一直在学习
+/ʃiː; ʃi/ /sed/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈstʌdiɪŋ/
+8
+three hours
+三个小时
+/θriː/ /ˈaʊərz/
+9
+for three hours
+三个小时（持续）
+/fɔːr; fər/ /θriː/ /ˈaʊərz/
+10
+She said she would have been studying for three hours
+她说她会一直学习三个小时了
+/ʃiː; ʃi/ /sed/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈstʌdiɪŋ/ /fɔːr; fər/ /θriː/ /ˈaʊərz/
+11
+by six o'clock
+到六点时
+/baɪ/ /sɪks/ /əˈklɑːk/
+12
+She said she would have been studying for three hours by six o'clock
+她说到六点的时候她会已经学习三个小时了
+/ʃiː; ʃi/ /sed/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈstʌdiɪŋ/ /fɔːr; fər/ /θriː/ /ˈaʊərz/ /baɪ/ /sɪks/ /əˈklɑːk/
+13
+He
+他
+/hiː/
+14
+thought
+思考
+/θɔːt/
+15
+He thought
+他以为
+/hiː/ /θɔːt/
+16
+he
+他
+/hiː/
+17
+would have been working
+将会一直在工作
+/wʊd/ /hæv/ /bɪn/ /ˈwɜrkɪŋ/
+18
+he would have been working
+他将会一直在工作
+/hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɜrkɪŋ/
+19
+He thought he would have been working
+他以为他会一直在工作
+/hiː/ /θɔːt/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɜrkɪŋ/
+20
+in the field
+在田里
+/ɪn/ /ðə/ /fiːld/
+21
+He thought he would have been working in the field
+他以为到那个时候他会一直在田里工作
+/hiː/ /θɔːt/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɜrkɪŋ/ /ɪn/ /ðə/ /fiːld/
+22
+two days
+两天
+/tuː/ /deɪz/
+23
+for two days
+两天（持续）
+/fɔːr; fər/ /tuː/ /deɪz/
+24
+He thought he would have been working in the field for two days
+他觉得他会一直在田里工作两天了
+/hiː/ /θɔːt/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɜrkɪŋ/ /ɪn/ /ðə/ /fiːld/ /fɔːr; fər/ /tuː/ /deɪz/
+25
+by then
+到那时
+/baɪ/ /ðen/
+26
+He thought he would have been working in the field for two days by then
+他觉得到那个时候他会一直在田里工作两天了
+/hiː/ /θɔːt/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɜrkɪŋ/ /ɪn/ /ðə/ /fiːld/ /fɔːr; fər/ /tuː/ /deɪz/ /baɪ/ /ðen/
+27
+They
+他们
+/ðeɪ/
+28
+told
+告诉
+/toʊld/
+29
+me
+我
+/miː/
+30
+They told me
+他们告诉我
+/ðeɪ/ /toʊld/ /miː/
+31
+they
+他们
+/ðeɪ/
+32
+would have been waiting
+会一直等待
+/wʊd/ /hæv/ /bɪn/ /ˈweɪtɪŋ/
+33
+the bus
+公交车
+/ðə/ /bʌs/
+34
+they would have been waiting for the bus
+他们会一直等公交车
+/ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈweɪtɪŋ/ /fɔːr; fər/ /ðə/ /bʌs/
+35
+They told me they would have been waiting for the bus
+他们告诉我他们会一直在等公交车
+/ðeɪ/ /toʊld/ /miː/ /ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈweɪtɪŋ/ /fɔːr; fər/ /ðə/ /bʌs/
+36
+an hour
+一小时
+/æn; ən/ /ˈaʊər/
+37
+for an hour
+一个小时（持续）
+/fɔːr; fər/ /æn; ən/ /ˈaʊər/
+38
+They told me they would have been waiting for the bus for an hour
+他们告诉我他们会一直等了一个小时了
+/ðeɪ/ /toʊld/ /miː/ /ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈweɪtɪŋ/ /fɔːr; fər/ /ðə/ /bʌs/ /fɔːr; fər/ /æn; ən/ /ˈaʊər/
+39
+by the time
+到...的时候
+/baɪ/ /ðə/ /taɪm/
+40
+it
+它
+/ɪt/
+41
+came
+来了
+/keɪm/
+42
+by the time it came
+到它来的时候
+/baɪ/ /ðə/ /taɪm/ /ɪt/ /keɪm/
+43
+They told me they would have been waiting for the bus for an hour by the time it came
+他们告诉我公交车来的时候他们会已经等了一个小时了。
+/ðeɪ/ /toʊld/ /miː/ /ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈweɪtɪŋ/ /fɔːr; fər/ /ðə/ /bʌs/ /fɔːr; fər/ /æn; ən/ /ˈaʊər/ /baɪ/ /ðə/ /taɪm/ /ɪt/ /keɪm/
+44
+I
+我
+/aɪ/
+45
+knew
+知道
+/nuː/
+46
+I knew
+我知道
+/aɪ/ /nuː/
+47
+would have been reading
+会一直在阅读
+/wʊd/ /hæv/ /bɪn/ /ˈriːdɪŋ/
+48
+this book
+这本书
+/ðɪs/ /bʊk/
+49
+I would have been reading this book
+我会一直在阅读这本书
+/aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈriːdɪŋ/ /ðɪs/ /bʊk/
+50
+I knew I would have been reading this book
+我知道我会一直在读这本书
+/aɪ/ /nuː/ /aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈriːdɪŋ/ /ðɪs/ /bʊk/
+51
+for a week
+一周
+/fɔːr; fər/ /ə; eɪ/ /wik/
+52
+I knew I would have been reading this book for a week
+我知道我会在下周一之前已经读这本书一周了
+/aɪ/ /nuː/ /aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈriːdɪŋ/ /ðɪs/ /bʊk/ /fɔːr; fər/ /ə; eɪ/ /wik/
+53
+by next Monday
+到下周一
+/baɪ/ /nekst/ /ˈmʌndeɪ/
+54
+I knew I would have been reading this book for a week by next Monday
+我知道到下周一的时候我会已经读这本书一周了
+/aɪ/ /nuː/ /aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈriːdɪŋ/ /ðɪs/ /bʊk/ /fɔːr; fər/ /ə; eɪ/ /wik/ /baɪ/ /nekst/ /ˈmʌndeɪ/
+55
+She
+她
+/ʃiː; ʃi/
+56
+wondered
+想知道
+/ˈwʌndərd/
+57
+She wondered
+她想知道
+/ʃiː; ʃi/ /ˈwʌndərd/
+58
+if
+如果
+/ɪf/
+59
+she
+她
+/ʃiː; ʃi/
+60
+would have been practicing
+会一直练习
+/wʊd/ /hæv/ /bɪn/ /ˈpræktɪsɪŋ/
+61
+the piano
+钢琴
+/ðə/ /piˈænoʊ/
+62
+if she would have been practicing the piano
+她会不会已经一直练习钢琴
+/ɪf/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈpræktɪsɪŋ/ /ðə/ /piˈænoʊ/
+63
+She wondered if she would have been practicing the piano
+她想知道她会不会已经一直练习钢琴
+/ʃiː; ʃi/ /ˈwʌndərd/ /ɪf/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈpræktɪsɪŋ/ /ðə/ /piˈænoʊ/
+64
+two hours
+两个小时
+/tuː/ /ˈaʊərz/
+65
+for two hours
+两个小时（持续）
+/fɔːr; fər/ /tuː/ /ˈaʊərz/
+66
+She wondered if she would have been practicing the piano for two hours
+她想知道她会不会已经练习钢琴两个小时了
+/ʃiː; ʃi/ /ˈwʌndərd/ /ɪf/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈpræktɪsɪŋ/ /ðə/ /piˈænoʊ/ /fɔːr; fər/ /tuː/ /ˈaʊərz/
+67
+by the evening
+到晚上的时候
+/baɪ/ /ðə/ /ˈivənɪŋ/
+68
+She wondered if she would have been practicing the piano for two hours by the evening
+她想知道到晚上的时候她会不会已经练习钢琴两个小时了
+/ʃiː; ʃi/ /ˈwʌndərd/ /ɪf/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈpræktɪsɪŋ/ /ðə/ /piˈænoʊ/ /fɔːr; fər/ /tuː/ /ˈaʊərz/ /baɪ/ /ðə/ /ˈivənɪŋ/
+69
+He
+他
+/hiː/
+70
+promised
+承诺
+/ˈprɑːmɪst/
+71
+He promised
+他承诺
+/hiː/ /ˈprɑːmɪst/
+72
+he
+他
+/hiː/
+73
+would have been helping
+会一直帮
+/wʊd/ /hæv/ /bɪn/ /ˈhelpɪŋ/
+74
+his father
+他的父亲
+/hɪz; ɪz/ /ˈfɑːðər/
+75
+he would have been helping his father
+他会一直在帮他父亲
+/hiː/ /wʊd/ /hæv/ /bɪn/ /ˈhelpɪŋ/ /hɪz; ɪz/ /ˈfɑːðər/
+76
+He promised he would have been helping his father
+他承诺他会一直在帮他父亲
+/hiː/ /ˈprɑːmɪst/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈhelpɪŋ/ /hɪz; ɪz/ /ˈfɑːðər/
+77
+in the shop
+在店里
+/ɪn/ /ðə/ /ʃɑːp/
+78
+He promised he would have been helping his father in the shop
+他承诺他会一直在店里帮他父亲
+/hiː/ /ˈprɑːmɪst/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈhelpɪŋ/ /hɪz; ɪz/ /ˈfɑːðər/ /ɪn/ /ðə/ /ʃɑːp/
+79
+three days
+三天
+/θriː/ /deɪz/
+80
+for three days
+三天（持续）
+/fɔːr; fər/ /θriː/ /deɪz/
+81
+He promised he would have been helping his father in the shop for three days
+他承诺他会一直在店里帮他父亲三天
+/hiː/ /ˈprɑːmɪst/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈhelpɪŋ/ /hɪz; ɪz/ /ˈfɑːðər/ /ɪn/ /ðə/ /ʃɑːp/ /fɔːr; fər/ /θriː/ /deɪz/
+82
+by Sunday
+到周日
+/baɪ/ /ˈsʌndeɪ/
+83
+He promised he would have been helping his father in the shop for three days by Sunday
+他承诺到周日的时候他会已经在店里帮他父亲三天了
+/hiː/ /ˈprɑːmɪst/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈhelpɪŋ/ /hɪz; ɪz/ /ˈfɑːðər/ /ɪn/ /ðə/ /ʃɑːp/ /fɔːr; fər/ /θriː/ /deɪz/ /baɪ/ /ˈsʌndeɪ/
+84
+They
+他们
+/ðeɪ/
+85
+expected
+期望
+/ɪkˈspektɪd/
+86
+They expected
+他们期望
+/ðeɪ/ /ɪkˈspektɪd/
+87
+they
+他们
+/ðeɪ/
+88
+would have been playing
+会一直在打
+/wʊd/ /hæv/ /bɪn/ /ˈpleɪɪŋ/
+89
+basketball
+篮球
+/ˈbæskɪtbɔːl/
+90
+they would have been playing basketball
+他们会已经打了一个小时篮球了
+/ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈpleɪɪŋ/ /ˈbæskɪtbɔːl/
+91
+They expected they would have been playing basketball
+他们期望他们会一直在打篮球
+/ðeɪ/ /ɪkˈspektɪd/ /ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈpleɪɪŋ/ /ˈbæskɪtbɔːl/
+92
+an hour
+一小时
+/æn; ən/ /ˈaʊər/
+93
+for an hour（持续）
+一个小时
+/fɔːr; fər/ /æn; ən/ /ˈaʊər/
+94
+They expected they would have been playing basketball for an hour
+他们期望他们会已经打了一个小时篮球了
+/ðeɪ/ /ɪkˈspektɪd/ /ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈpleɪɪŋ/ /ˈbæskɪtbɔːl/ /fɔːr; fər/ /æn; ən/ /ˈaʊər/
+95
+by the time
+到...的时候
+/baɪ/ /ðə/ /taɪm/
+96
+we
+我们
+/wiː; wi/
+97
+arrived
+到达
+/əˈraɪvd/
+98
+by the time we arrived
+我们到的时候
+/baɪ/ /ðə/ /taɪm/ /wiː; wi/ /əˈraɪvd/
+99
+They expected they would have been playing basketball for an hour by the time we arrived
+他们期望我们到的时候他们会已经打了一个小时篮球了
+/ðeɪ/ /ɪkˈspektɪd/ /ðeɪ/ /wʊd/ /hæv/ /bɪn/ /ˈpleɪɪŋ/ /ˈbæskɪtbɔːl/ /fɔːr; fər/ /æn; ən/ /ˈaʊər/ /baɪ/ /ðə/ /taɪm/ /wiː; wi/ /əˈraɪvd/
+100
+I
+我
+/aɪ/
+101
+guessed
+猜
+/ɡest/
+102
+I guessed
+我猜到
+/aɪ/ /ɡest/
+103
+would have been writing
+会一直写
+/wʊd/ /hæv/ /bɪn/
+104
+this letter
+这封信
+/ðɪs/ /ˈletər/
+105
+I would have been writing this letter
+我将会一直在写这封信
+/aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈraɪtɪŋ/ /ðɪs/ /ˈletər/
+106
+I guessed I would have been writing this letter
+我猜到我会一直在写这封信
+/aɪ/ /ɡest/ /aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈraɪtɪŋ/ /ðɪs/ /ˈletər/
+107
+half an hour
+半小时
+/hæf/ /æn; ən/ /ˈaʊər/
+108
+for half an hour
+半个小时（持续）
+/fɔːr; fər/ /hæf/ /æn; ən/ /ˈaʊər/
+109
+I guessed I would have been writing this letter for half an hour
+我猜我会已经写这封信半个小时了
+/aɪ/ /ɡest/ /aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈraɪtɪŋ/ /ðɪs/ /ˈletər/ /fɔːr; fər/ /hæf/ /æn; ən/ /ˈaʊər/
+110
+by then
+到那时
+/baɪ/ /ðen/
+111
+I guessed I would have been writing this letter for half an hour by then
+我猜到那个时候我会已经写这封信半个小时了
+/aɪ/ /ɡest/ /aɪ/ /wʊd/ /hæv/ /bɪn/ /ˈraɪtɪŋ/ /ðɪs/ /ˈletər/ /fɔːr; fər/ /hæf/ /æn; ən/ /ˈaʊər/ /baɪ/ /ðen/
+112
+She
+她
+/ʃiː; ʃi/
+113
+planned
+计划
+/plænd/
+114
+She planned
+她计划
+/ʃiː; ʃi/ /plænd/
+115
+she
+她
+/ʃiː; ʃi/
+116
+would have been taking
+会一直散步
+/wʊd/ /hæv/ /bɪn/ /ˈteɪkɪŋ/
+117
+a walk
+一次
+/ə; eɪ/ /wɔːk/
+118
+she would have been taking a walk
+她会一直散步
+/ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈteɪkɪŋ/ /ə; eɪ/ /wɔːk/
+119
+She planned she would have been taking a walk
+她计划她会已经散步
+/ʃiː; ʃi/ /plænd/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈteɪkɪŋ/ /ə; eɪ/ /wɔːk/
+120
+forty minutes
+四十分钟
+/ˈfɔrti/ /ˈmɪnɪts/
+121
+for forty minutes
+四十分钟（持续）
+/fɔːr; fər/ /ˈfɔrti/ /ˈmɪnɪts/
+122
+She planned she would have been taking a walk for forty minutes
+她计划她会已经散步四十分钟
+/ʃiː; ʃi/ /plænd/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈteɪkɪŋ/ /ə; eɪ/ /wɔːk/ /fɔːr; fər/ /ˈfɔrti/ /ˈmɪnɪts/
+123
+by seven o'clock
+到七点的时候
+/baɪ/ /ˈsev(ə)n/ /əˈklɑːk/
+124
+She planned she would have been taking a walk for forty minutes by seven o'clock
+她计划到七点的时候她会已经散步四十分钟了
+/ʃiː; ʃi/ /plænd/ /ʃiː; ʃi/ /wʊd/ /hæv/ /bɪn/ /ˈteɪkɪŋ/ /ə; eɪ/ /wɔːk/ /fɔːr; fər/ /ˈfɔrti/ /ˈmɪnɪts/ /baɪ/ /ˈsev(ə)n/ /əˈklɑːk/
+125
+He
+他
+/hiː/
+126
+said
+说
+/sed/
+127
+He said
+他说
+/hiː/ /sed/
+128
+he
+他
+/hiː/
+129
+would have been watching
+会一直在看
+/wʊd/ /hæv/ /bɪn/ /ˈwɑtʃɪŋ/
+130
+TV
+电视
+/ˌtiː ˈviː/
+131
+he would have been watching TV
+他会已经看了两个小时电视了
+/hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɑtʃɪŋ/ /ˌtiː ˈviː/
+132
+He said he would have been watching TV
+他说他会一直在看电视
+/hiː/ /sed/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɑtʃɪŋ/ /ˌtiː ˈviː/
+133
+two hours
+两个小时
+/tuː/ /ˈaʊərz/
+134
+for two hours
+两个小时（持续）
+/fɔːr; fər/ /tuː/ /ˈaʊərz/
+135
+He said he would have been watching TV for two hours
+他说他会已经看了两个小时电视了
+/hiː/ /sed/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɑtʃɪŋ/ /ˌtiː ˈviː/ /fɔːr; fər/ /tuː/ /ˈaʊərz/
+136
+by the time
+到...的时候
+/baɪ/ /ðə/ /taɪm/
+137
+his mother
+他的母亲
+/hɪz; ɪz/ /ˈmʌðər/
+138
+came back
+回来
+/keɪm/ /bæk/
+139
+by the time his mother came back
+到他妈妈回来的时候
+/baɪ/ /ðə/ /taɪm/ /hɪz; ɪz/ /ˈmʌðər/ /keɪm/ /bæk/
+140
+He said he would have been watching TV for two hours by the time his mother came back
+他说他妈妈回来的时候他会已经看了两个小时电视了
+/hiː/ /sed/ /hiː/ /wʊd/ /hæv/ /bɪn/ /ˈwɑtʃɪŋ/ /ˌtiː ˈviː/ /fɔːr; fər/ /tuː/ /ˈaʊərz/ /baɪ/ /ðə/ /taɪm/ /hɪz; ɪz/ /ˈmʌðər/ /keɪm/ /bæk/

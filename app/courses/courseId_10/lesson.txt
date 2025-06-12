@@ -1,0 +1,1572 @@
+1
+Mike
+迈克
+/maɪk/
+2
+gets up
+起床
+/ɡets/ /ʌp/
+3
+Mike gets up
+迈克起床
+/maɪk/ /ɡets/ /ʌp/
+4
+at six am
+在早上六点
+/æt; ət/ /sɪks/ /æm; əm/
+5
+Mike gets up at six am
+迈克每天早上六点起床
+/maɪk/ /ɡets/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/
+6
+every morning
+每天早上
+/ˈevri/ /ˈmɔːrnɪŋ/
+7
+Mike gets up at six am every morning
+迈克每天早上六点起床
+/maɪk/ /ɡets/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/ /ˈevri/ /ˈmɔːrnɪŋ/
+8
+He
+他
+/hiː/
+9
+makes
+做
+/meɪks/
+10
+breakfast
+早餐
+/ˈbrekfəst/
+11
+He makes breakfast
+他做早餐
+/hiː/ /meɪks/ /ˈbrekfəst/
+12
+and
+并且
+/ænd; ənd/
+13
+drinks
+喝
+/drɪŋks/
+14
+a coffee
+一杯咖啡
+/ə; eɪ/ /ˈkɔːfi/
+15
+and drinks a coffee
+并喝了一杯咖啡
+/ænd; ənd/ /drɪŋks/ /ə; eɪ/ /ˈkɔːfi/
+16
+He makes breakfast and drinks a coffee
+他做早餐并喝了一杯咖啡
+/hiː/ /meɪks/ /ˈbrekfəst/ /ænd; ənd/ /drɪŋks/ /ə; eɪ/ /ˈkɔːfi/
+17
+He
+他
+/hiː/
+18
+drives
+开车
+/drʌɪvz/
+19
+to work
+去上班
+/tuː; tə/ /wɜrk/
+20
+He drives to work
+他开车去上班
+/hiː/ /drʌɪvz/ /tuː; tə/ /wɜrk/
+21
+in
+在
+/ɪn/
+22
+his car
+他的车里
+/hɪz; ɪz/ /kɑːr/
+23
+in his car
+在他的车里
+/ɪn/ /hɪz; ɪz/ /kɑːr/
+24
+He drives to work in his car
+他开车去上班
+/hiː/ /drʌɪvz/ /tuː; tə/ /wɜrk/ /ɪn/ /hɪz; ɪz/ /kɑːr/
+25
+His
+他的
+/hɪz; ɪz/
+26
+work
+工作
+/wɜrk/
+27
+starts
+开始
+/stɑːrts/
+28
+His work starts
+他的工作开始
+/hɪz; ɪz/ /wɜrk/ /stɑːrts/
+29
+at
+在
+/æt; ət/
+30
+seven thirty
+七点半
+/ˈsev(ə)n/ /ˈθɜrti/
+31
+am
+上午
+/æm; əm/
+32
+at seven thirty am
+在早上七点半
+/æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/ /æm; əm/
+33
+His work starts at seven thirty am
+他的工作从早上七点半开始
+/hɪz; ɪz/ /wɜrk/ /stɑːrts/ /æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/ /æm; əm/
+34
+Mike
+迈克
+/maɪk/
+35
+is
+是
+/ɪz/
+36
+a cook
+一名厨师
+/ə; eɪ/ /kʊk/
+37
+Mike is a cook
+迈克是厨师
+/maɪk/ /ɪz/ /ə; eɪ/ /kʊk/
+38
+at a restaurant
+在一家餐厅
+/æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+39
+Mike is a cook at a restaurant
+迈克是一家餐厅的厨师
+/maɪk/ /ɪz/ /ə; eɪ/ /kʊk/ /æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+40
+He
+他
+/hiː/
+41
+makes
+制作
+/meɪks/
+42
+food
+食物
+/fuːd/
+43
+He makes food
+他制作食物
+/hiː/ /meɪks/ /fuːd/
+44
+for
+对于
+/fɔːr; fər/
+45
+hungry
+饥饿的
+/ˈhʌŋɡri/
+46
+customers
+顾客
+/ˈkʌstəmərz/
+47
+for hungry customers
+为饥饿的顾客
+/fɔːr; fər/ /ˈhʌŋɡri/ /ˈkʌstəmərz/
+48
+He makes food for hungry customers
+他为饥饿的顾客准备食物
+/hiː/ /meɪks/ /fuːd/ /fɔːr; fər/ /ˈhʌŋɡri/ /ˈkʌstəmərz/
+49
+The customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+50
+are
+是
+/ɑr/
+51
+The customers are
+客户是
+/ðə/ /ˈkʌstəmərz/ /ɑr/
+52
+from
+从
+/frʌm/
+53
+many countries
+许多国家
+/ˈmeni/ /ˈkʌntriz/
+54
+from many countries
+来自许多国家
+/frʌm/ /ˈmeni/ /ˈkʌntriz/
+55
+The customers are from many countries
+客户来自许多国家
+/ðə/ /ˈkʌstəmərz/ /ɑr/ /frʌm/ /ˈmeni/ /ˈkʌntriz/
+56
+They
+他们
+/ðeɪ/
+57
+speak
+说
+/spiːk/
+58
+They speak
+他们说
+/ðeɪ/ /spiːk/
+59
+many different
+许多不同的
+/ˈmeni/ /ˈdɪfrənt/
+60
+languages
+语言
+/ˈlæŋɡwɪdʒɪz/
+61
+many different languages
+多种不同的语言
+/ˈmeni/ /ˈdɪfrənt/ /ˈlæŋɡwɪdʒɪz/
+62
+They speak many different languages
+他们说多种不同的语言
+/ðeɪ/ /spiːk/ /ˈmeni/ /ˈdɪfrənt/ /ˈlæŋɡwɪdʒɪz/
+63
+Mike
+迈克
+/maɪk/
+64
+can meet
+可以遇见
+/kæn/ /miːt/
+65
+many
+许多
+/ˈmeni/
+66
+friendly
+友好的
+/ˈfrendli/
+67
+people
+人
+/ˈpipl/
+68
+Mike can meet many friendly people
+迈克可以遇到许多友善的人
+/maɪk/ /kæn/ /miːt/ /ˈmeni/ /ˈfrendli/ /ˈpipl/
+69
+Mike
+迈克
+/maɪk/
+70
+is
+是
+/ɪz/
+71
+happy
+快乐的
+/ˈhæpi/
+72
+Mike is happy
+迈克很开心
+/maɪk/ /ɪz/ /ˈhæpi/
+73
+when
+当
+/wen/
+74
+he
+他
+/hiː/
+75
+talks
+与
+/tɔːks/
+76
+to the customers
+与客户交谈
+/tuː; tə/ /ðə/ /ˈkʌstəmərz/
+77
+when he talks to the customers
+当他与客户交谈时
+/wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+78
+Mike is happy when he talks to the customers
+迈克在与客户交谈时感到很开心
+/maɪk/ /ɪz/ /ˈhæpi/ /wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+79
+Now
+现在
+/naʊ/
+80
+I
+我
+/aɪ/
+81
+want
+想要
+/wɑːnt/
+82
+you
+你
+/juː; jʊ/
+83
+to listen
+听
+/tuː; tə/ /ˈlɪs(ə)n/
+84
+Now I want you to listen
+现在我想让你听
+/naʊ/ /aɪ/ /wɑːnt/ /juː; jʊ/ /tuː; tə/ /ˈlɪs(ə)n/
+85
+to
+对于
+/tuː; tə/
+86
+the same
+同样的
+/ðə/ /seɪm/
+87
+story
+故事
+/ˈstɔːri/
+88
+to the same story
+同一个故事
+/tuː; tə/ /ðə/ /seɪm/ /ˈstɔːri/
+89
+Now I want you to listen to the same story
+现在我想让你听同一个故事
+/naʊ/ /aɪ/ /wɑːnt/ /juː; jʊ/ /tuː; tə/ /ˈlɪs(ə)n/ /tuː; tə/ /ðə/ /seɪm/ /ˈstɔːri/
+90
+but
+但是
+/bʌt/
+91
+this time
+这次
+/ðɪs/ /taɪm/
+92
+but this time
+但这次
+/bʌt/ /ðɪs/ /taɪm/
+93
+Now I want you to listen to the same story , but this time
+现在我想让你听同一个故事，但这次
+/naʊ/ /aɪ/ /wɑːnt/ /juː; jʊ/ /tuː; tə/ /ˈlɪs(ə)n/ /tuː; tə/ /ðə/ /seɪm/ /ˈstɔːri/ /bʌt/ /ðɪs/ /taɪm/
+94
+told
+告诉
+/toʊld/
+95
+by Mike
+由迈克
+/baɪ/ /maɪk/
+96
+told by Mike
+由迈克讲述
+/toʊld/ /baɪ/ /maɪk/
+97
+Now I want you to listen to the same story , but this time told by Mike
+现在我想让你听同一个故事，但这次是由迈克讲述的
+/naʊ/ /aɪ/ /wɑːnt/ /juː; jʊ/ /tuː; tə/ /ˈlɪs(ə)n/ /tuː; tə/ /ðə/ /seɪm/ /ˈstɔːri/ /bʌt/ /ðɪs/ /taɪm/ /toʊld/ /baɪ/ /maɪk/
+98
+I
+我
+/aɪ/
+99
+get up
+起床
+/ɡet/ /ʌp/
+100
+I get up
+我起床
+/aɪ/ /ɡet/ /ʌp/
+101
+at six am
+在早上六点
+/æt; ət/ /sɪks/ /æm; əm/
+102
+I get up at six am
+我每天早上六点起床
+/aɪ/ /ɡet/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/
+103
+every morning
+每天早上
+/ˈevri/ /ˈmɔːrnɪŋ/
+104
+I get up at six am every morning
+我每天早上六点起床
+/aɪ/ /ɡet/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/ /ˈevri/ /ˈmɔːrnɪŋ/
+105
+I
+我
+/aɪ/
+106
+make
+做
+/meɪk/
+107
+breakfast
+早餐
+/ˈbrekfəst/
+108
+I make breakfast
+我做早餐
+/aɪ/ /meɪk/ /ˈbrekfəst/
+109
+and
+并且
+/ænd; ənd/
+110
+drink
+喝
+/drɪŋk/
+111
+a coffee
+一杯咖啡
+/ə; eɪ/ /ˈkɔːfi/
+112
+and drink a coffee
+并喝了一杯咖啡
+/ænd; ənd/ /drɪŋk/ /ə; eɪ/ /ˈkɔːfi/
+113
+I make breakfast and drink a coffee
+我做早餐并喝了一杯咖啡
+/aɪ/ /meɪk/ /ˈbrekfəst/ /ænd; ənd/ /drɪŋk/ /ə; eɪ/ /ˈkɔːfi/
+114
+I
+我
+/aɪ/
+115
+drive
+开车
+/draɪv/
+116
+to work
+去上班
+/tuː; tə/ /wɜrk/
+117
+I drive to work
+我开车去上班
+/aɪ/ /draɪv/ /tuː; tə/ /wɜrk/
+118
+in
+在
+/ɪn/
+119
+my car
+我的车里
+/maɪ/ /kɑːr/
+120
+in my car
+在我的车里
+/ɪn/ /maɪ/ /kɑːr/
+121
+I drive to work in my car
+我开车去上班
+/aɪ/ /draɪv/ /tuː; tə/ /wɜrk/ /ɪn/ /maɪ/ /kɑːr/
+122
+My
+我的
+/maɪ/
+123
+work
+工作
+/wɜrk/
+124
+starts
+开始
+/stɑːrts/
+125
+My work starts
+我的工作开始
+/maɪ/ /wɜrk/ /stɑːrts/
+126
+at
+在
+/æt; ət/
+127
+seven thirty
+七点半
+/ˈsev(ə)n/ /ˈθɜrti/
+128
+at seven thirty
+在七点半
+/æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/
+129
+My work starts at seven thirty
+我的工作从七点半开始
+/maɪ/ /wɜrk/ /stɑːrts/ /æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/
+130
+am
+上午
+/æm; əm/
+131
+My work starts at seven thirty am
+我的工作从早上七点半开始
+/maɪ/ /wɜrk/ /stɑːrts/ /æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/ /æm; əm/
+132
+I
+我
+/aɪ/
+133
+am
+是
+/æm; əm/
+134
+a cook
+一名厨师
+/ə; eɪ/ /kʊk/
+135
+I am a cook
+我是厨师
+/aɪ/ /æm; əm/ /ə; eɪ/ /kʊk/
+136
+at a restaurant
+在一家餐厅
+/æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+137
+I am a cook at a restaurant
+我在一家餐厅担任厨师
+/aɪ/ /æm; əm/ /ə; eɪ/ /kʊk/ /æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+138
+I
+我
+/aɪ/
+139
+make
+做
+/meɪk/
+140
+food
+食物
+/fuːd/
+141
+I make food
+我制作食物
+/aɪ/ /meɪk/ /fuːd/
+142
+for
+对于
+/fɔːr; fər/
+143
+hungry
+饥饿的
+/ˈhʌŋɡri/
+144
+customers
+顾客
+/ˈkʌstəmərz/
+145
+for hungry customers
+为饥饿的顾客
+/fɔːr; fər/ /ˈhʌŋɡri/ /ˈkʌstəmərz/
+146
+I make food for hungry customers
+我为饥饿的顾客制作食物
+/aɪ/ /meɪk/ /fuːd/ /fɔːr; fər/ /ˈhʌŋɡri/ /ˈkʌstəmərz/
+147
+The customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+148
+are
+是
+/ɑr/
+149
+The customers are
+客户是
+/ðə/ /ˈkʌstəmərz/ /ɑr/
+150
+from
+从
+/frʌm/
+151
+many
+许多
+/ˈmeni/
+152
+different
+不同的
+/ˈdɪfrənt/
+153
+countries
+国家
+/ˈkʌntriz/
+154
+from many different countries
+来自许多不同的国家
+/frʌm/ /ˈmeni/ /ˈdɪfrənt/ /ˈkʌntriz/
+155
+The customers are from many different countries
+客户来自许多不同的国家
+/ðə/ /ˈkʌstəmərz/ /ɑr/ /frʌm/ /ˈmeni/ /ˈdɪfrənt/ /ˈkʌntriz/
+156
+They
+他们
+/ðeɪ/
+157
+speak
+说
+/spiːk/
+158
+They speak
+他们说
+/ðeɪ/ /spiːk/
+159
+many different
+许多不同的
+/ˈmeni/ /ˈdɪfrənt/
+160
+languages
+语言
+/ˈlæŋɡwɪdʒɪz/
+161
+many different languages
+许多不同的语言
+/ˈmeni/ /ˈdɪfrənt/ /ˈlæŋɡwɪdʒɪz/
+162
+They speak many different languages
+他们说许多不同的语言
+/ðeɪ/ /spiːk/ /ˈmeni/ /ˈdɪfrənt/ /ˈlæŋɡwɪdʒɪz/
+163
+I
+我
+/aɪ/
+164
+can meet
+可以遇见
+/kæn/ /miːt/
+165
+many
+许多
+/ˈmeni/
+166
+friendly
+友好的
+/ˈfrendli/
+167
+people
+人
+/ˈpipl/
+168
+I can meet many friendly people
+我可以遇到许多友好的人
+/aɪ/ /kæn/ /miːt/ /ˈmeni/ /ˈfrendli/ /ˈpipl/
+169
+I
+我
+/aɪ/
+170
+am
+是
+/æm; əm/
+171
+happy
+快乐的
+/ˈhæpi/
+172
+I am happy
+我感到开心
+/aɪ/ /æm; əm/ /ˈhæpi/
+173
+when
+当
+/wen/
+174
+talk
+交谈
+/tɔːk/
+175
+to
+与
+/tuː; tə/
+176
+the customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+177
+when I talk to the customers
+当我与客户交谈时
+/wen/ /aɪ/ /tɔːk/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+178
+I am happy when I talk to the customers
+与客户交谈时，我感到很开心
+/aɪ/ /æm; əm/ /ˈhæpi/ /wen/ /aɪ/ /tɔːk/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+179
+Now
+现在
+/naʊ/
+180
+I
+我
+/aɪ/
+181
+want
+想要
+/wɑːnt/
+182
+you
+你
+/juː; jʊ/
+183
+Now I want you
+现在我想请你
+/naʊ/ /aɪ/ /wɑːnt/ /juː; jʊ/
+184
+to listen
+听
+/tuː; tə/ /ˈlɪs(ə)n/
+185
+to the questions
+这些问题
+/tuː; tə/ /ðə/ /ˈkwestʃənz/
+186
+to listen to the questions
+听一下这些问题
+/tuː; tə/ /ˈlɪs(ə)n/ /tuː; tə/ /ðə/ /ˈkwestʃənz/
+187
+Now I want you to listen to the questions
+现在我想请你听一下这些问题
+/naʊ/ /aɪ/ /wɑːnt/ /juː; jʊ/ /tuː; tə/ /ˈlɪs(ə)n/ /tuː; tə/ /ðə/ /ˈkwestʃənz/
+188
+One :
+一：
+/wʌn/
+189
+Mike
+迈克
+/maɪk/
+190
+wakes up
+醒来
+/weɪks/ /ʌp/
+191
+Mike wakes up
+迈克起床
+/maɪk/ /weɪks/ /ʌp/
+192
+One : Mike wakes up
+迈克起床
+/wʌn/ /maɪk/ /weɪks/ /ʌp/
+193
+at six am
+在早上六点
+/æt; ət/ /sɪks/ /æm; əm/
+194
+One : Mike wakes up at six am
+迈克每天早上六点起床
+/wʌn/ /maɪk/ /weɪks/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/
+195
+every morning
+每天早上
+/ˈevri/ /ˈmɔːrnɪŋ/
+196
+One : Mike wakes up at six am every morning
+迈克每天早上六点起床
+/wʌn/ /maɪk/ /weɪks/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/ /ˈevri/ /ˈmɔːrnɪŋ/
+197
+Mike
+迈克
+/maɪk/
+198
+wake up
+醒来
+/weɪk/ /ʌp/
+199
+Does Mike wake up
+迈克起床了吗？
+/dʌz/ /maɪk/ /weɪk/ /ʌp/
+200
+early
+早
+/ˈɜːrli/
+201
+Does Mike wake up early ?
+迈克早起吗？
+/dʌz/ /maɪk/ /weɪk/ /ʌp/ /ˈɜːrli/
+202
+Yes
+是的
+/jes/
+203
+Mike
+迈克
+/maɪk/
+204
+wakes up
+醒来
+/weɪks/ /ʌp/
+205
+Mike wakes up
+迈克起床
+/maɪk/ /weɪks/ /ʌp/
+206
+Yes , Mike wakes up
+是的，迈克起床
+/jes/ /maɪk/ /weɪks/ /ʌp/
+207
+at six am
+在早上六点
+/æt; ət/ /sɪks/ /æm; əm/
+208
+Yes , Mike wakes up at six am
+是的，迈克每天早上六点起床
+/jes/ /maɪk/ /weɪks/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/
+209
+every morning
+每天早上
+/ˈevri/ /ˈmɔːrnɪŋ/
+210
+Yes , Mike wakes up at six am every morning
+是的，迈克每天早上六点起床
+/jes/ /maɪk/ /weɪks/ /ʌp/ /æt; ət/ /sɪks/ /æm; əm/ /ˈevri/ /ˈmɔːrnɪŋ/
+211
+Two :
+二：
+/tuː/
+212
+Mike
+迈克
+/maɪk/
+213
+drinks
+喝
+/drɪŋks/
+214
+a coffee
+一杯咖啡
+/ə; eɪ/ /ˈkɔːfi/
+215
+Mike drinks a coffee
+迈克喝了一杯咖啡
+/maɪk/ /drɪŋks/ /ə; eɪ/ /ˈkɔːfi/
+216
+Two : Mike drinks a coffee
+迈克喝了一杯咖啡
+/tuː/ /maɪk/ /drɪŋks/ /ə; eɪ/ /ˈkɔːfi/
+217
+Mike
+迈克
+/maɪk/
+218
+drink
+喝
+/drɪŋk/
+219
+Does Mike drink
+迈克喝吗？
+/dʌz/ /maɪk/ /drɪŋk/
+220
+a tea
+一杯茶
+/ə; eɪ/ /tiː/
+221
+Does Mike drink a tea ?
+迈克喝茶吗？
+/dʌz/ /maɪk/ /drɪŋk/ /ə; eɪ/ /tiː/
+222
+No
+不
+/noʊ/
+223
+Mike
+迈克
+/maɪk/
+224
+does not
+不
+/dʌz/ /nɑːt/
+225
+drink
+喝
+/drɪŋk/
+226
+a tea
+一杯茶
+/ə; eɪ/ /tiː/
+227
+Mike does not drink a tea
+迈克不喝茶
+/maɪk/ /dʌz/ /nɑːt/ /drɪŋk/ /ə; eɪ/ /tiː/
+228
+No , Mike does not drink a tea
+不，迈克不喝茶
+/noʊ/ /maɪk/ /dʌz/ /nɑːt/ /drɪŋk/ /ə; eɪ/ /tiː/
+229
+he
+他
+/hiː/
+230
+drinks
+喝
+/drɪŋks/
+231
+a coffee
+一杯咖啡
+/ə; eɪ/ /ˈkɔːfi/
+232
+he drinks a coffee
+他喝咖啡
+/hiː/ /drɪŋks/ /ə; eɪ/ /ˈkɔːfi/
+233
+No , Mike does not drink a tea , he drinks a coffee
+不，迈克不喝茶，他喝咖啡
+/noʊ/ /maɪk/ /dʌz/ /nɑːt/ /drɪŋk/ /ə; eɪ/ /tiː/ /hiː/ /drɪŋks/ /ə; eɪ/ /ˈkɔːfi/
+234
+Three :
+三：
+/θriː/
+235
+Mike
+迈克
+/maɪk/
+236
+drives
+驾驶
+/drʌɪvz/
+237
+his car
+他的车
+/hɪz; ɪz/ /kɑːr/
+238
+Mike drives his car
+迈克开车
+/maɪk/ /drʌɪvz/ /hɪz; ɪz/ /kɑːr/
+239
+Three : Mike drives his car
+迈克开车
+/θriː/ /maɪk/ /drʌɪvz/ /hɪz; ɪz/ /kɑːr/
+240
+to work
+去上班
+/tuː; tə/ /wɜrk/
+241
+Three : Mike drives his car to work
+迈克开车去上班
+/θriː/ /maɪk/ /drʌɪvz/ /hɪz; ɪz/ /kɑːr/ /tuː; tə/ /wɜrk/
+242
+Mike
+迈克
+/maɪk/
+243
+drive
+驾驶
+/draɪv/
+244
+his car
+他的车
+/hɪz; ɪz/ /kɑːr/
+245
+Does Mike drive his car
+迈克开车吗？
+/dʌz/ /maɪk/ /draɪv/ /hɪz; ɪz/ /kɑːr/
+246
+to work
+去上班
+/tuː; tə/ /wɜrk/
+247
+Does Mike drive his car to work ?
+迈克开车去上班吗？
+/dʌz/ /maɪk/ /draɪv/ /hɪz; ɪz/ /kɑːr/ /tuː; tə/ /wɜrk/
+248
+Yes
+是的
+/jes/
+249
+Mike
+迈克
+/maɪk/
+250
+drives
+驾驶
+/drʌɪvz/
+251
+his car
+他的车
+/hɪz; ɪz/ /kɑːr/
+252
+Mike drives his car
+迈克开车
+/maɪk/ /drʌɪvz/ /hɪz; ɪz/ /kɑːr/
+253
+Yes , Mike drives his car
+是的，迈克开车
+/jes/ /maɪk/ /drʌɪvz/ /hɪz; ɪz/ /kɑːr/
+254
+to work
+去上班
+/tuː; tə/ /wɜrk/
+255
+Yes , Mike drives his car to work
+是的，迈克开车去上班
+/jes/ /maɪk/ /drʌɪvz/ /hɪz; ɪz/ /kɑːr/ /tuː; tə/ /wɜrk/
+256
+Four :
+四：
+/fɔr/
+257
+Mike's
+迈克的
+/maɪks/
+258
+work
+工作
+/wɜrk/
+259
+starts
+开始
+/stɑːrts/
+260
+Mike's work starts
+迈克的工作开始了
+/maɪks/ /wɜrk/ /stɑːrts/
+261
+Four : Mike's work starts
+四：迈克的工作开始
+/fɔr/ /maɪks/ /wɜrk/ /stɑːrts/
+262
+at
+在
+/æt; ət/
+263
+seven thirty
+七点半
+/ˈsev(ə)n/ /ˈθɜrti/
+264
+am
+上午
+/æm; əm/
+265
+at seven thirty am
+在早上七点半
+/æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/ /æm; əm/
+266
+Four : Mike's work starts at seven thirty am
+四：迈克的工作从早上七点半开始
+/fɔr/ /maɪks/ /wɜrk/ /stɑːrts/ /æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/ /æm; əm/
+267
+Mike's
+迈克的
+/maɪks/
+268
+work
+工作
+/wɜrk/
+269
+Does Mike's work
+迈克的工作
+/dʌz/ /maɪks/ /wɜrk/
+270
+start
+开始
+/stɑːrt/
+271
+at
+在
+/æt; ət/
+272
+seven am
+七点
+/ˈsev(ə)n/ /æm; əm/
+273
+start at seven am
+在早上七点开始
+/stɑːrt/ /æt; ət/ /ˈsev(ə)n/ /æm; əm/
+274
+Does Mike's work start at seven am ?
+迈克的工作是早上七点开始吗？
+/dʌz/ /maɪks/ /wɜrk/ /stɑːrt/ /æt; ət/ /ˈsev(ə)n/ /æm; əm/
+275
+No
+不
+/noʊ/
+276
+Mike's work
+迈克的工作
+/maɪks/ /wɜrk/
+277
+does not start
+不开始
+/dʌz/ /nɑːt/ /stɑːrt/
+278
+Mike's work does not start
+迈克的工作不是从
+/maɪks/ /wɜrk/ /dʌz/ /nɑːt/ /stɑːrt/
+279
+No , Mike's work does not start
+不，迈克的工作不是从
+/noʊ/ /maɪks/ /wɜrk/ /dʌz/ /nɑːt/ /stɑːrt/
+280
+at seven am
+在早上七点
+/æt; ət/ /ˈsev(ə)n/ /æm; əm/
+281
+No , Mike's work does not start at seven am
+不，迈克的工作不是从早上七点开始的
+/noʊ/ /maɪks/ /wɜrk/ /dʌz/ /nɑːt/ /stɑːrt/ /æt; ət/ /ˈsev(ə)n/ /æm; əm/
+282
+It
+它
+/ɪt/
+283
+starts
+开始
+/stɑːrts/
+284
+It starts
+开始
+/ɪt/ /stɑːrts/
+285
+at
+在
+/æt; ət/
+286
+seven thirty
+七点半
+/ˈsev(ə)n/ /ˈθɜrti/
+287
+at seven thirty
+在七点半
+/æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/
+288
+It starts at seven thirty
+七点半开始
+/ɪt/ /stɑːrts/ /æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/
+289
+am
+上午
+/æm; əm/
+290
+It starts at seven thirty am
+上午七点半开始
+/ɪt/ /stɑːrts/ /æt; ət/ /ˈsev(ə)n/ /ˈθɜrti/ /æm; əm/
+291
+Five :
+五：
+/faɪv/
+292
+Mike
+迈克
+/maɪk/
+293
+is
+是
+/ɪz/
+294
+a cook
+一名厨师
+/ə; eɪ/ /kʊk/
+295
+Mike is a cook
+迈克是厨师
+/maɪk/ /ɪz/ /ə; eɪ/ /kʊk/
+296
+Five : Mike is a cook
+五：迈克是厨师
+/faɪv/ /maɪk/ /ɪz/ /ə; eɪ/ /kʊk/
+297
+at a restaurant
+在一家餐厅
+/æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+298
+Five : Mike is a cook at a restaurant
+五：迈克是一家餐厅的厨师
+/faɪv/ /maɪk/ /ɪz/ /ə; eɪ/ /kʊk/ /æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+299
+Is
+是
+/ɪz/
+300
+Mike
+迈克
+/maɪk/
+301
+Is Mike
+迈克是吗？
+/ɪz/ /maɪk/
+302
+a cook
+厨师
+/ə; eɪ/ /kʊk/
+303
+Is Mike a cook ?
+迈克是厨师吗？
+/ɪz/ /maɪk/ /ə; eɪ/ /kʊk/
+304
+Yes
+是的
+/jes/
+305
+Mike
+迈克
+/maɪk/
+306
+is
+是
+/ɪz/
+307
+a cook
+一名厨师
+/ə; eɪ/ /kʊk/
+308
+Mike is a cook
+迈克是厨师
+/maɪk/ /ɪz/ /ə; eɪ/ /kʊk/
+309
+Yes , Mike is a cook
+是的，迈克是厨师
+/jes/ /maɪk/ /ɪz/ /ə; eɪ/ /kʊk/
+310
+at a restaurant
+在一家餐厅
+/æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+311
+Yes , Mike is a cook at a restaurant
+是的，迈克是一家餐厅的厨师
+/jes/ /maɪk/ /ɪz/ /ə; eɪ/ /kʊk/ /æt; ət/ /ə; eɪ/ /ˈrestrɑːnt/
+312
+Six :
+六：
+/sɪks/
+313
+The customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+314
+are
+来自
+/ɑr/
+315
+from
+来自许多不同的国家
+/frʌm/
+316
+many different countries
+许多不同的国家
+/ˈmeni/ /ˈdɪfrənt/ /ˈkʌntriz/
+317
+The customers are from many different countries
+客户来自许多不同的国家
+/ðə/ /ˈkʌstəmərz/ /ɑr/ /frʌm/ /ˈmeni/ /ˈdɪfrənt/ /ˈkʌntriz/
+318
+Six : The customers are from many different countries
+六：客户来自许多不同的国家
+/sɪks/ /ðə/ /ˈkʌstəmərz/ /ɑr/ /frʌm/ /ˈmeni/ /ˈdɪfrənt/ /ˈkʌntriz/
+319
+Are
+是
+/ɑr/
+320
+the customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+321
+Are the customers
+客户是
+/ɑr/ /ðə/ /ˈkʌstəmərz/
+322
+from
+从
+/frʌm/
+323
+one country ?
+一个国家？
+/wʌn/ /ˈkʌntri/
+324
+from one country
+来自同一个国家
+/frʌm/ /wʌn/ /ˈkʌntri/
+325
+Are the customers from one country ?
+客户来自同一个国家吗？
+/ɑr/ /ðə/ /ˈkʌstəmərz/ /frʌm/ /wʌn/ /ˈkʌntri/
+326
+No
+不
+/noʊ/
+327
+the customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+328
+are not
+不是
+/ɑr/ /nɑːt/
+329
+from
+来自
+/frʌm/
+330
+one country
+一个国家
+/wʌn/ /ˈkʌntri/
+331
+the customers are not from one country
+顾客们不是来自同一个国家
+/ðə/ /ˈkʌstəmərz/ /ɑr/ /nɑːt/ /frʌm/ /wʌn/ /ˈkʌntri/
+332
+No , the customers are not from one country
+不，顾客们不是来自同一个国家
+/noʊ/ /ðə/ /ˈkʌstəmərz/ /ɑr/ /nɑːt/ /frʌm/ /wʌn/ /ˈkʌntri/
+333
+They
+他们
+/ðeɪ/
+334
+are from
+来自
+/ɑr/ /frʌm/
+335
+They are from
+他们来自
+/ðeɪ/ /ɑr/ /frʌm/
+336
+many different
+许多不同的
+/ˈmeni/ /ˈdɪfrənt/
+337
+countries
+国家
+/ˈkʌntriz/
+338
+many different countries
+许多不同的国家
+/ˈmeni/ /ˈdɪfrənt/ /ˈkʌntriz/
+339
+They are from many different countries
+他们来自许多不同的国家
+/ðeɪ/ /ɑr/ /frʌm/ /ˈmeni/ /ˈdɪfrənt/ /ˈkʌntriz/
+340
+Seven :
+七：
+/ˈsev(ə)n/
+341
+The customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+342
+are
+是
+/ɑr/
+343
+friendly
+友好的
+/ˈfrendli/
+344
+The customers are friendly
+顾客们很友好
+/ðə/ /ˈkʌstəmərz/ /ɑr/ /ˈfrendli/
+345
+Seven : The customers are friendly
+七：顾客们都很友好
+/ˈsev(ə)n/ /ðə/ /ˈkʌstəmərz/ /ɑr/ /ˈfrendli/
+346
+Are
+是
+/ɑr/
+347
+the customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+348
+Are the customers
+顾客们
+/ɑr/ /ðə/ /ˈkʌstəmərz/
+349
+friendly
+友好吗？
+/ˈfrendli/
+350
+Are the customers friendly ?
+顾客友好吗？
+/ɑr/ /ðə/ /ˈkʌstəmərz/ /ˈfrendli/
+351
+Yes
+是的
+/jes/
+352
+the customers
+顾客
+/ðə/ /ˈkʌstəmərz/
+353
+are
+是
+/ɑr/
+354
+friendly
+友好的
+/ˈfrendli/
+355
+the customers are friendly
+顾客们很友好
+/ðə/ /ˈkʌstəmərz/ /ɑr/ /ˈfrendli/
+356
+Yes , the customers are friendly
+是的，顾客们都很友好
+/jes/ /ðə/ /ˈkʌstəmərz/ /ɑr/ /ˈfrendli/
+357
+Eight :
+八：
+/eɪt/
+358
+Mike
+迈克
+/maɪk/
+359
+feels
+感觉
+/fiːlz/
+360
+happy
+开心
+/ˈhæpi/
+361
+Mike feels happy
+迈克感到开心
+/maɪk/ /fiːlz/ /ˈhæpi/
+362
+Eight : Mike feels happy
+八：迈克感到开心
+/eɪt/ /maɪk/ /fiːlz/ /ˈhæpi/
+363
+when
+当
+/wen/
+364
+he
+他
+/hiː/
+365
+talks
+交谈
+/tɔːks/
+366
+to
+对
+/tuː; tə/
+367
+the customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+368
+when he talks to the customers
+当他与顾客交谈时
+/wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+369
+Eight : Mike feels happy when he talks to the customers
+八：迈克在与顾客交谈时感到开心
+/eɪt/ /maɪk/ /fiːlz/ /ˈhæpi/ /wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+370
+Mike
+迈克
+/maɪk/
+371
+feel
+感觉
+/fil/
+372
+happy
+开心
+/ˈhæpi/
+373
+Does Mike feel happy
+迈克感到开心吗？
+/dʌz/ /maɪk/ /fil/ /ˈhæpi/
+374
+when
+当
+/wen/
+375
+he
+迈克
+/hiː/
+376
+talks
+与
+/tɔːks/
+377
+to
+顾客
+/tuː; tə/
+378
+the customers
+交谈时
+/ðə/ /ˈkʌstəmərz/
+379
+when he talks to the customers
+当他与客户交谈时
+/wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+380
+Does Mike feel happy when he talks to the customers ?
+迈克在与客户交谈时感到开心吗？
+/dʌz/ /maɪk/ /fil/ /ˈhæpi/ /wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+381
+Yes
+是的
+/jes/
+382
+Mike
+迈克
+/maɪk/
+383
+feels
+感觉
+/fiːlz/
+384
+happy
+开心
+/ˈhæpi/
+385
+Mike feels happy
+迈克感到开心
+/maɪk/ /fiːlz/ /ˈhæpi/
+386
+Yes , Mike feels happy
+是的，迈克感到开心
+/jes/ /maɪk/ /fiːlz/ /ˈhæpi/
+387
+when
+当
+/wen/
+388
+he
+他
+/hiː/
+389
+talks
+交谈
+/tɔːks/
+390
+to
+对
+/tuː; tə/
+391
+the customers
+顾客们
+/ðə/ /ˈkʌstəmərz/
+392
+when he talks to the customers
+当他与客户交谈时
+/wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
+393
+Yes , Mike feels happy when he talks to the customers
+是的，迈克在与客户交谈时感到很开心
+/jes/ /maɪk/ /fiːlz/ /ˈhæpi/ /wen/ /hiː/ /tɔːks/ /tuː; tə/ /ðə/ /ˈkʌstəmərz/
