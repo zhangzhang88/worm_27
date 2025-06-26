@@ -1,0 +1,359 @@
+1
+Can
+能
+/kæn/
+
+2
+you
+你
+/juː; jʊ/
+
+3
+cut
+剪
+/kʌt/
+
+4
+my hair
+我的头发
+/maɪ/ /her/
+
+5
+Can you cut my hair
+你能剪我的头发
+/kæn/ /juː; jʊ/ /kʌt/ /maɪ/ /her/
+
+6
+a little
+有点
+/ə; eɪ/ /ˈlɪtl/
+
+7
+differently
+不同地
+/ˈdɪfrəntli/
+
+8
+this time
+这次
+/ðɪs/ /taɪm/
+
+9
+a little differently this time ?
+这次稍微不一样吗？
+/ə; eɪ/ /ˈlɪtl/ /ˈdɪfrəntli/ /ðɪs/ /taɪm/
+
+10
+Can you cut my hair a little differently this time ?
+这次能给我换个发型吗？
+/kæn/ /juː; jʊ/ /kʌt/ /maɪ/ /her/ /ə; eɪ/ /ˈlɪtl/ /ˈdɪfrəntli/ /ðɪs/ /taɪm/
+
+11
+Sure
+当然
+/ʃʊr/
+
+12
+How
+如何
+/haʊ/
+
+13
+would you like
+你想要
+/wʊd/ /juː; jʊ/ /laɪk/
+
+14
+it
+它
+/ɪt/
+
+15
+cut
+cut（过去分词）: 切割
+/kʌt/
+
+16
+How would you like it cut ?
+您想怎么剪？
+/haʊ/ /wʊd/ /juː; jʊ/ /laɪk/ /ɪt/ /kʌt/
+
+17
+Sure . How would you like it cut ?
+好的您想怎么剪？
+/ʃʊr/ /haʊ/ /wʊd/ /juː; jʊ/ /laɪk/ /ɪt/ /kʌt/
+
+18
+Well
+好吧
+/wel/
+
+19
+last time
+上次
+/læst/ /taɪm/
+
+20
+it
+它
+/ɪt/
+
+21
+was
+be（过去式）: 是
+/wʌz; wəz/
+
+22
+a little too long
+有点太长了
+/ə; eɪ/ /ˈlɪtl/ /tuː/ /lɔːŋ/
+
+23
+Well , last time it was a little too long
+嗯，上次有点太长了
+/wel/ /læst/ /taɪm/ /ɪt/ /wʌz; wəz/ /ə; eɪ/ /ˈlɪtl/ /tuː/ /lɔːŋ/
+
+24
+I
+我
+/aɪ/
+
+25
+see
+明白
+/siː/
+
+26
+what you mean
+你的意思
+/wʌt/ /juː; jʊ/ /miːn/
+
+27
+I see what you mean
+我明白你的意思
+/aɪ/ /siː/ /wʌt/ /juː; jʊ/ /miːn/
+
+28
+How about
+怎么样
+/haʊ/ /əˈbaʊt/
+
+29
+a bob cut
+一个波波头
+/ə; eɪ/ /bɑːb/ /kʌt/
+
+30
+How about a bob cut ?
+你觉得波波头怎么样？
+/haʊ/ /əˈbaʊt/ /ə; eɪ/ /bɑːb/ /kʌt/
+
+31
+I see what you mean . How about a bob cut ?
+我明白你的意思要不试试波波头？
+/aɪ/ /siː/ /wʌt/ /juː; jʊ/ /miːn/ /haʊ/ /əˈbaʊt/ /ə; eɪ/ /bɑːb/ /kʌt/
+
+32
+Can
+能
+/kæn/
+
+33
+you
+你
+/juː; jʊ/
+
+34
+work
+工作
+/wɜrk/
+
+35
+some layers
+一些层次
+/sʌm; səm/ /ˈleər/
+
+36
+into
+进入
+/ˈɪntuː/
+
+37
+it
+它
+/ɪt/
+
+38
+Can you work some layers into it ?
+你能给它添加些层次感吗？
+/kæn/ /juː; jʊ/ /wɜrk/ /sʌm; səm/ /ˈleər/ /ˈɪntuː/ /ɪt/
+
+39
+Of course
+当然
+/ʌv/ /kɔːrs/
+
+40
+It's
+它是
+/ɪts/
+
+41
+easy
+容易的
+/ˈiːzi/
+
+42
+It's easy
+这很简单
+/ɪts/ /ˈiːzi/
+
+43
+Of course . It's easy
+当然这很简单。
+/ʌv/ /kɔːrs/ /ɪts/ /ˈiːzi/
+
+44
+I
+我
+/aɪ/
+
+45
+would also like
+也想要
+/wʊd/ /ˈɔːlsoʊ/ /laɪk/
+
+46
+to keep
+保留
+/tuː; tə/ /kip/
+
+47
+some bangs
+一些刘海
+/sʌm; səm/ /bæŋz/
+
+48
+I would also like to keep some bangs
+我还想留些刘海
+/aɪ/ /wʊd/ /ˈɔːlsoʊ/ /laɪk/ /tuː; tə/ /kip/ /sʌm; səm/ /bæŋz/
+
+49
+How long
+多久
+/haʊ/ /lɔːŋ/
+
+50
+would you like
+你想要
+/wʊd/ /juː; jʊ/ /laɪk/
+
+51
+them
+他们
+/ðem; ðəm/
+
+52
+How long would you like them ?
+您希望它们持续多久？
+/haʊ/ /lɔːŋ/ /wʊd/ /juː; jʊ/ /laɪk/ /ðem; ðəm/
+
+53
+Maybe
+也许
+/ˈmeɪbi/
+
+54
+down to
+直到
+/daʊn/ /tuː; tə/
+
+55
+my eyebrows
+我的眉毛
+/maɪ/ /ˈaɪˌbraʊz/
+
+56
+Maybe down to my eyebrows ?
+也许是我的眉毛？
+/ˈmeɪbi/ /daʊn/ /tuː; tə/ /maɪ/ /ˈaɪˌbraʊz/
+
+57
+Sounds good
+听起来不错
+/saʊndz/ /ɡʊd/
+
+58
+I
+我
+/aɪ/
+
+59
+trust
+信任
+/trʌst/
+
+60
+you'll
+你会
+/jʊl/
+
+61
+make
+使
+/meɪk/
+
+62
+me
+我
+/miː/
+
+63
+look beautiful
+看起来漂亮
+/lʊk/ /ˈbjuːtɪf(ə)l/
+
+64
+I trust you'll make me look beautiful
+我相信你会让我看起来很美
+/aɪ/ /trʌst/ /jʊl/ /meɪk/ /miː/ /lʊk/ /ˈbjuːtɪf(ə)l/
+
+65
+Oh
+哦
+/oʊ/
+
+66
+trust me
+相信我
+/trʌst/ /miː/
+
+67
+Oh , trust me
+哦，相信我
+/oʊ/ /trʌst/ /miː/
+
+68
+You'll
+你会
+/jʊl/
+
+69
+look
+看起来
+/lʊk/
+
+70
+gorgeous
+华丽的
+/ˈɡɔːrdʒəs/
+
+71
+You'll look gorgeous
+你会看起来美极了
+/jʊl/ /lʊk/ /ˈɡɔːrdʒəs/
+
+72
+Oh , trust me . You'll look gorgeous
+哦，相信我你会看起来光彩照人的。
+/oʊ/ /trʌst/ /miː/ /jʊl/ /lʊk/ /ˈɡɔːrdʒəs/

@@ -132,6 +132,7 @@ const lessonDescriptions = [
   "119 : Daily life -30",
   "120 : Daily life -31",
   "121 : Daily life -32",
+  "122 : Daily life -33",
 
 
 
