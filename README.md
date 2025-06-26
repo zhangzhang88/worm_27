@@ -114,3 +114,34 @@ worm_27/
 ## 许可证
 
 MIT
+
+新用户下载后
+
+第一步：
+npm install
+
+第二步：
+cd backend && python3 -m venv myenv && source myenv/bin/activate && pip install flask flask-cors edge-tts
+
+第三步：
+cd .. && chmod +x dev.sh build-and-start.sh
+
+第四步：
+./dev.sh  或者  ./build-and-start.sh
+
+
+我们需要一起提交所有修改和新增的文件。让我们先查看当前的 git 状态，看看有哪些文件被修改或新增
+cd /Users/world/Downloads/worm_27 && git status
+
+我们可以使用 git add . 命令一次性添加所有修改和新增的文件，然后提交并推送到 GitHub：
+cd /Users/world/Downloads/worm_27 && git add .
+
+现在所有文件都已添加到暂存区。接下来，让我们创建一个提交并添加提交信息：
+git commit -m "添加 lesson.py 脚本及生成的 TypeScript 文件，修复格式问题"
+
+提交成功！现在让我们将这些更改推送到 GitHub 仓库：
+git push origin main
+
+太好了！所有更改已成功推送到 GitHub 仓库。现在让我们验证一下当前的 git 状态，确保没有遗漏任何文件：
+git status
+
