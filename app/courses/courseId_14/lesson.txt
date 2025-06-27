@@ -1,359 +1,469 @@
 1
-Can
-能
-/kæn/
+Hello
+你好
+/həˈloʊ/
 
 2
-you
-你
-/juː; jʊ/
-
-3
-cut
-剪
-/kʌt/
-
-4
-my hair
-我的头发
-/maɪ/ /her/
-
-5
-Can you cut my hair
-你能剪我的头发
-/kæn/ /juː; jʊ/ /kʌt/ /maɪ/ /her/
-
-6
-a little
-有点
-/ə; eɪ/ /ˈlɪtl/
-
-7
-differently
-不同地
-/ˈdɪfrəntli/
-
-8
-this time
-这次
-/ðɪs/ /taɪm/
-
-9
-a little differently this time ?
-这次稍微不一样吗？
-/ə; eɪ/ /ˈlɪtl/ /ˈdɪfrəntli/ /ðɪs/ /taɪm/
-
-10
-Can you cut my hair a little differently this time ?
-这次能给我换个发型吗？
-/kæn/ /juː; jʊ/ /kʌt/ /maɪ/ /her/ /ə; eɪ/ /ˈlɪtl/ /ˈdɪfrəntli/ /ðɪs/ /taɪm/
-
-11
-Sure
-当然
-/ʃʊr/
-
-12
-How
+how
 如何
 /haʊ/
 
-13
-would you like
-你想要
-/wʊd/ /juː; jʊ/ /laɪk/
+3
+may I
+我可以
+/meɪ/ /aɪ/
 
-14
-it
-它
-/ɪt/
+4
+help
+帮助
+/help/
 
-15
-cut
-cut（过去分词）: 切割
-/kʌt/
-
-16
-How would you like it cut ?
-您想怎么剪？
-/haʊ/ /wʊd/ /juː; jʊ/ /laɪk/ /ɪt/ /kʌt/
-
-17
-Sure . How would you like it cut ?
-好的您想怎么剪？
-/ʃʊr/ /haʊ/ /wʊd/ /juː; jʊ/ /laɪk/ /ɪt/ /kʌt/
-
-18
-Well
-好吧
-/wel/
-
-19
-last time
-上次
-/læst/ /taɪm/
-
-20
-it
-它
-/ɪt/
-
-21
-was
-be（过去式）: 是
-/wʌz; wəz/
-
-22
-a little too long
-有点太长了
-/ə; eɪ/ /ˈlɪtl/ /tuː/ /lɔːŋ/
-
-23
-Well , last time it was a little too long
-嗯，上次有点太长了
-/wel/ /læst/ /taɪm/ /ɪt/ /wʌz; wəz/ /ə; eɪ/ /ˈlɪtl/ /tuː/ /lɔːŋ/
-
-24
-I
-我
-/aɪ/
-
-25
-see
-明白
-/siː/
-
-26
-what you mean
-你的意思
-/wʌt/ /juː; jʊ/ /miːn/
-
-27
-I see what you mean
-我明白你的意思
-/aɪ/ /siː/ /wʌt/ /juː; jʊ/ /miːn/
-
-28
-How about
-怎么样
-/haʊ/ /əˈbaʊt/
-
-29
-a bob cut
-一个波波头
-/ə; eɪ/ /bɑːb/ /kʌt/
-
-30
-How about a bob cut ?
-你觉得波波头怎么样？
-/haʊ/ /əˈbaʊt/ /ə; eɪ/ /bɑːb/ /kʌt/
-
-31
-I see what you mean . How about a bob cut ?
-我明白你的意思要不试试波波头？
-/aɪ/ /siː/ /wʌt/ /juː; jʊ/ /miːn/ /haʊ/ /əˈbaʊt/ /ə; eɪ/ /bɑːb/ /kʌt/
-
-32
-Can
-能
-/kæn/
-
-33
+5
 you
 你
 /juː; jʊ/
 
+6
+today
+今天
+/təˈdeɪ/
+
+7
+how may I help you today ?
+今天有什么可以帮您的吗？
+/haʊ/ /meɪ/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
+
+8
+Hello , how may I help you today ?
+您好，今天有什么可以帮您的吗？
+/həˈloʊ/ /haʊ/ /meɪ/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
+
+9
+Hi
+你好
+/haɪ/
+
+10
+I
+我
+/aɪ/
+
+11
+would like
+想要
+/wʊd/ /laɪk/
+
+12
+to increase
+增加
+/tuː; tə/ /ɪnˈkriːs/
+
+13
+Hi , I would like to increase
+你好，我想增加
+/haɪ/ /aɪ/ /wʊd/ /laɪk/ /tuː; tə/ /ɪnˈkriːs/
+
+14
+my internet data
+我的网络流量
+/maɪ/ /ˈɪntərnɛt/ /ˈdeɪtə/
+
+15
+Hi , I would like to increase my internet data
+你好，我想增加我的上网流量
+/haɪ/ /aɪ/ /wʊd/ /laɪk/ /tuː; tə/ /ɪnˈkriːs/ /maɪ/ /ˈɪntərnɛt/ /ˈdeɪtə/
+
+16
+I'll
+我将
+/aɪl/
+
+17
+be glad
+很高兴
+/biː/ /ɡlæd/
+
+18
+to help
+帮助
+/tuː; tə/ /help/
+
+19
+you
+你
+/juː; jʊ/
+
+20
+with that
+那件事
+/wɪð; wɪθ/ /ðæt/
+
+21
+I'll be glad to help you with that
+我很乐意帮你解决这个问题
+/aɪl/ /biː/ /ɡlæd/ /tuː; tə/ /help/ /juː; jʊ/ /wɪð; wɪθ/ /ðæt/
+
+22
+What's
+什么是
+/wʌts/
+
+23
+your account number
+你的账号
+/jʊr; jər/ /əˈkaʊnt/ /ˈnʌmbɚ/
+
+24
+What's your account number ?
+你的账号是多少？
+/wʌts/ /jʊr; jər/ /əˈkaʊnt/ /ˈnʌmbɚ/
+
+25
+I'll be glad to help you with that . What's your account number ?
+我很乐意帮您处理这个问题请问您的账号是多少？
+/aɪl/ /biː/ /ɡlæd/ /tuː; tə/ /help/ /juː; jʊ/ /wɪð; wɪθ/ /ðæt/ /wʌts/ /jʊr; jər/ /əˈkaʊnt/ /ˈnʌmbɚ/
+
+26
+I
+我
+/aɪ/
+
+27
+don't have
+没有
+/doʊnt/ /hæv/
+
+28
+my account number
+我的账号
+/maɪ/ /əˈkaʊnt/ /ˈnʌmbɚ/
+
+29
+with me
+在身边
+/wɪð; wɪθ/ /miː/
+
+30
+I don't have my account number with me
+我手头没有我的账号,
+/aɪ/ /doʊnt/ /hæv/ /maɪ/ /əˈkaʊnt/ /ˈnʌmbɚ/ /wɪð; wɪθ/ /miː/
+
+31
+but
+但是
+/bʌt/
+
+32
+my phone number
+我的电话号码
+/maɪ/ /foʊn/ /ˈnʌmbɚ/
+
+33
+is
+是
+/ɪz/
+
 34
-work
-工作
-/wɜrk/
+310-865-9274
+310-865-9274
+/310-865-9274/
 
 35
-some layers
-一些层次
-/sʌm; səm/ /ˈleər/
+but my phone number is 310-865-9274
+但我的电话号码是310-865-9274.
+/bʌt/ /maɪ/ /foʊn/ /ˈnʌmbɚ/ /ɪz/ /310-865-9274/
 
 36
-into
-进入
-/ˈɪntuː/
+I don't have my account number with me , but my phone number is 310-865-9274
+我手边没有我的账号，但我的电话号码是310-865-9274
+/aɪ/ /doʊnt/ /hæv/ /maɪ/ /əˈkaʊnt/ /ˈnʌmbɚ/ /wɪð; wɪθ/ /miː/ /bʌt/ /maɪ/ /foʊn/ /ˈnʌmbɚ/ /ɪz/ /310-865-9274/
 
 37
-it
+Alright
+好的
+/ɔːlˈraɪt/
+
+38
+I
+我
+/aɪ/
+
+39
+see
+看到
+/siː/
+
+40
+you
+你
+/juː; jʊ/
+
+41
+use
+使用
+/juːz/
+
+42
+our mobile service
+我们的移动服务
+/aʊr/ /ˈmoʊbəl/ /ˈsɜːrvɪs/
+
+43
+I see you use our mobile service
+我看到你使用了我们的移动服务
+/aɪ/ /siː/ /juː; jʊ/ /juːz/ /aʊr/ /ˈmoʊbəl/ /ˈsɜːrvɪs/
+
+44
+Alright . I see you use our mobile service
+好的我看到您使用的是我们的移动服务。
+/ɔːlˈraɪt/ /aɪ/ /siː/ /juː; jʊ/ /juːz/ /aʊr/ /ˈmoʊbəl/ /ˈsɜːrvɪs/
+
+45
+Yes
+是的
+/jes/
+
+46
+I
+我
+/aɪ/
+
+47
+also have
+也有
+/ˈɔːlsoʊ/ /hæv/
+
+48
+a landline
+一部座机
+/ə; eɪ/ /ˈlændlaɪn/
+
+49
+Yes , I also have a landline
+是的，我还有一部座机
+/jes/ /aɪ/ /ˈɔːlsoʊ/ /hæv/ /ə; eɪ/ /ˈlændlaɪn/
+
+50
+According to
+根据
+/əˈkɔːrdɪŋ/ /tuː; tə/
+
+51
+my file
+我的文件
+/maɪ/ /faɪl/
+
+52
+According to my file
+根据我的文件
+/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/
+
+53
+you
+你
+/juː; jʊ/
+
+54
+are eligible
+有资格
+/ɑr/ /ˈelɪdʒəb(ə)l/
+
+55
+you are eligible
+您有资格
+/juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/
+
+56
+According to my file , you are eligible
+根据我的记录，您符合资格
+/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/ /juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/
+
+57
+for
+为了
+/fɔːr; fər/
+
+58
+an upgrade
+一次升级
+/æn; ən/ /ˌʌpˈɡreɪd/
+
+59
+for an upgrade
+升级
+/fɔːr; fər/ /æn; ən/ /ˌʌpˈɡreɪd/
+
+60
+According to my file , you are eligible for an upgrade
+根据我的记录，您符合升级条件
+/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/ /juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/ /fɔːr; fər/ /æn; ən/ /ˌʌpˈɡreɪd/
+
+61
+to
+到
+/tuː; tə/
+
+62
+our
+我们的
+/aʊr/
+
+63
+new service
+新服务
+/nuː/ /ˈsɜːrvɪs/
+
+64
+to our new service
+到我们的新服务
+/tuː; tə/ /aʊr/ /nuː/ /ˈsɜːrvɪs/
+
+65
+According to my file , you are eligible for an upgrade to our new service
+根据我的档案记录，您有资格升级到我们的新服务
+/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/ /juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/ /fɔːr; fər/ /æn; ən/ /ˌʌpˈɡreɪd/ /tuː; tə/ /aʊr/ /nuː/ /ˈsɜːrvɪs/
+
+66
+What
+什么
+/wʌt/
+
+67
+does
+do（第三人称单数现在时）: 构成疑问句
+/dʌz/
+
+68
+this new service
+这项新服务
+/ðɪs/ /nuː/ /ˈsɜːrvɪs/
+
+69
+include
+包括
+/ɪnˈkluːd/
+
+70
+What does this new service include ?
+这项新服务包含哪些内容？
+/wʌt/ /dʌz/ /ðɪs/ /nuː/ /ˈsɜːrvɪs/ /ɪnˈkluːd/
+
+71
+It
 它
 /ɪt/
 
-38
-Can you work some layers into it ?
-你能给它添加些层次感吗？
-/kæn/ /juː; jʊ/ /wɜrk/ /sʌm; səm/ /ˈleər/ /ˈɪntuː/ /ɪt/
-
-39
-Of course
-当然
-/ʌv/ /kɔːrs/
-
-40
-It's
-它是
-/ɪts/
-
-41
-easy
-容易的
-/ˈiːzi/
-
-42
-It's easy
-这很简单
-/ɪts/ /ˈiːzi/
-
-43
-Of course . It's easy
-当然这很简单。
-/ʌv/ /kɔːrs/ /ɪts/ /ˈiːzi/
-
-44
-I
-我
-/aɪ/
-
-45
-would also like
-也想要
-/wʊd/ /ˈɔːlsoʊ/ /laɪk/
-
-46
-to keep
-保留
-/tuː; tə/ /kip/
-
-47
-some bangs
-一些刘海
-/sʌm; səm/ /bæŋz/
-
-48
-I would also like to keep some bangs
-我还想留些刘海
-/aɪ/ /wʊd/ /ˈɔːlsoʊ/ /laɪk/ /tuː; tə/ /kip/ /sʌm; səm/ /bæŋz/
-
-49
-How long
-多久
-/haʊ/ /lɔːŋ/
-
-50
-would you like
-你想要
-/wʊd/ /juː; jʊ/ /laɪk/
-
-51
-them
-他们
-/ðem; ðəm/
-
-52
-How long would you like them ?
-您希望它们持续多久？
-/haʊ/ /lɔːŋ/ /wʊd/ /juː; jʊ/ /laɪk/ /ðem; ðəm/
-
-53
-Maybe
-也许
-/ˈmeɪbi/
-
-54
-down to
-直到
-/daʊn/ /tuː; tə/
-
-55
-my eyebrows
-我的眉毛
-/maɪ/ /ˈaɪˌbraʊz/
-
-56
-Maybe down to my eyebrows ?
-也许是我的眉毛？
-/ˈmeɪbi/ /daʊn/ /tuː; tə/ /maɪ/ /ˈaɪˌbraʊz/
-
-57
-Sounds good
-听起来不错
-/saʊndz/ /ɡʊd/
-
-58
-I
-我
-/aɪ/
-
-59
-trust
-信任
-/trʌst/
-
-60
-you'll
-你会
-/jʊl/
-
-61
-make
-使
-/meɪk/
-
-62
-me
-我
-/miː/
-
-63
-look beautiful
-看起来漂亮
-/lʊk/ /ˈbjuːtɪf(ə)l/
-
-64
-I trust you'll make me look beautiful
-我相信你会让我看起来很美
-/aɪ/ /trʌst/ /jʊl/ /meɪk/ /miː/ /lʊk/ /ˈbjuːtɪf(ə)l/
-
-65
-Oh
-哦
-/oʊ/
-
-66
-trust me
-相信我
-/trʌst/ /miː/
-
-67
-Oh , trust me
-哦，相信我
-/oʊ/ /trʌst/ /miː/
-
-68
-You'll
-你会
-/jʊl/
-
-69
-look
-看起来
-/lʊk/
-
-70
-gorgeous
-华丽的
-/ˈɡɔːrdʒəs/
-
-71
-You'll look gorgeous
-你会看起来美极了
-/jʊl/ /lʊk/ /ˈɡɔːrdʒəs/
-
 72
-Oh , trust me . You'll look gorgeous
-哦，相信我你会看起来光彩照人的。
-/oʊ/ /trʌst/ /miː/ /jʊl/ /lʊk/ /ˈɡɔːrdʒəs/
+makes
+make（第三人称单数）: 使
+/meɪks/
+
+73
+the internet connection
+互联网连接
+/ðə/ /ˈɪntərnɛt/ /kəˈnekʃ(ə)n/
+
+74
+twice as fast
+快两倍
+/twaɪs/ /æz; əz/ /fæst/
+
+75
+It makes the internet connection twice as fast
+它使互联网连接速度提升了一倍
+/ɪt/ /meɪks/ /ðə/ /ˈɪntərnɛt/ /kəˈnekʃ(ə)n/ /twaɪs/ /æz; əz/ /fæst/
+
+76
+That
+那个
+/ðæt/
+
+77
+sounds
+sound（第三人称单数）: 听起来
+/saʊndz/
+
+78
+perfect
+完美的
+/ˈpɜːrfɪkt/
+
+79
+That sounds perfect
+听起来很完美
+/ðæt/ /saʊndz/ /ˈpɜːrfɪkt/
+
+80
+Is
+be（第三人称单数）: 是
+/ɪz/
+
+81
+there
+那里
+/ðer; ðər/
+
+82
+also
+也
+/ˈɔːlsoʊ/
+
+83
+a price increase
+价格上涨
+/ə; eɪ/ /praɪs/ /ɪnˈkriːs/
+
+84
+Is there also a price increase ?
+价格也会上涨吗？
+/ɪz/ /ðer; ðər/ /ˈɔːlsoʊ/ /ə; eɪ/ /praɪs/ /ɪnˈkriːs/
+
+85
+That sounds perfect . Is there also a price increase ?
+听起来很完美价格是否也有所上涨？
+/ðæt/ /saʊndz/ /ˈpɜːrfɪkt/ /ɪz/ /ðer; ðər/ /ˈɔːlsoʊ/ /ə; eɪ/ /praɪs/ /ɪnˈkriːs/
+
+86
+Yes
+是的
+/jes/
+
+87
+that
+那个
+/ðæt/
+
+88
+will be
+将是
+/wɪl/ /biː/
+
+89
+$5 more
+多5美元
+/faɪv/ /mɔːr/
+
+90
+per month
+每月
+/pər/ /mʌnθ/
+
+91
+Yes , that will be $5 more per month
+是的，每月需额外支付5美元
+/jes/ /ðæt/ /wɪl/ /biː/ /faɪv/ /mɔːr/ /pər/ /mʌnθ/
+
+92
+Sign me up
+给我报名
+/saɪn/ /miː/ /ʌp/
+
+93
+right away
+立刻
+/raɪt/ /əˈweɪ/
+
+94
+Sign me up right away
+立刻给我报名
+/saɪn/ /miː/ /ʌp/ /raɪt/ /əˈweɪ/
