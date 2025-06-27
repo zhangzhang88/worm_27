@@ -126,6 +126,8 @@ cd backend && python3 -m venv myenv && source myenv/bin/activate && pip install 
 第三步：
 cd .. && chmod +x dev.sh build-and-start.sh
 
+cd app/courses/courseId_14 && python3 lesson.py
+
 第四步：
 ./dev.sh  或者  ./build-and-start.sh
 
