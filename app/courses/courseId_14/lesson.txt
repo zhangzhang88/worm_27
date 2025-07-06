@@ -4,466 +4,176 @@ Hello
 /həˈloʊ/
 
 2
-how
-如何
-/haʊ/
+Is this the Smith residence ?
+这里是史密斯家吗？
+/ɪz/ /ðɪs/ /ðə/ /smɪθ/ /ˈrezɪdəns/
 
 3
-may I
-我可以
-/meɪ/ /aɪ/
+Hello . Is this the Smith residence ?
+你好，这里是史密斯家吗？
+/həˈloʊ/ /ɪz/ /ðɪs/ /ðə/ /smɪθ/ /ˈrezɪdəns/
 
 4
-help
-帮助
-/help/
+Yes it is
+是的
+/jes/ /ɪt/ /ɪz/
 
 5
-you
-你
-/juː; jʊ/
+May I ask who's calling ?
+请问您是哪位？
+/meɪ/ /aɪ/ /æsk/ /huz/ /ˈkɔːlɪŋ/
 
 6
-today
-今天
-/təˈdeɪ/
+Yes it is . May I ask who's calling ?
+是的请问您是哪位？
+/jes/ /ɪt/ /ɪz/ /meɪ/ /aɪ/ /æsk/ /huz/ /ˈkɔːlɪŋ/
 
 7
-how may I help you today ?
-今天有什么可以帮您的吗？
-/haʊ/ /meɪ/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
+This is your bank
+这是您的银行
+/ðɪs/ /ɪz/ /jʊr; jər/ /bæŋk/
 
 8
-Hello , how may I help you today ?
-您好，今天有什么可以帮您的吗？
-/həˈloʊ/ /haʊ/ /meɪ/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
+calling in regards to
+来电是关于
+/ˈkɔːlɪŋ/ /ɪn/ /rɪˈɡɑːrdz/ /tuː; tə/
 
 9
-Hi
-你好
-/haɪ/
+This is your bank calling in regards to
+这里是您的银行来电，关于
+/ðɪs/ /ɪz/ /jʊr; jər/ /bæŋk/ /ˈkɔːlɪŋ/ /ɪn/ /rɪˈɡɑːrdz/ /tuː; tə/
 
 10
-I
-我
-/aɪ/
+an overcharge on your credit card
+您的信用卡上的一笔超额收费
+/æn; ən/ /ˌoʊvərˈtʃɑːrdʒ/ /ɑːn/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/
 
 11
-would like
-想要
-/wʊd/ /laɪk/
+This is your bank calling in regards to an overcharge on your credit card
+这里是您的银行来电，关于您的信用卡存在超额扣款的问题
+/ðɪs/ /ɪz/ /jʊr; jər/ /bæŋk/ /ˈkɔːlɪŋ/ /ɪn/ /rɪˈɡɑːrdz/ /tuː; tə/ /æn; ən/ /ˌoʊvərˈtʃɑːrdʒ/ /ɑːn/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/
 
 12
-to increase
-增加
-/tuː; tə/ /ɪnˈkriːs/
+I'm sorry
+我很抱歉
+/aɪm/ /ˈsɑːri/
 
 13
-Hi , I would like to increase
-你好，我想增加
-/haɪ/ /aɪ/ /wʊd/ /laɪk/ /tuː; tə/ /ɪnˈkriːs/
+There must be some mistake
+一定是哪里弄错了
+/ðer; ðər/ /mʌst; məst/ /biː/ /sʌm; səm/ /mɪˈsteɪk/
 
 14
-my internet data
-我的网络流量
-/maɪ/ /ˈɪntərnɛt/ /ˈdeɪtə/
+I'm sorry . There must be some mistake
+抱歉，一定是哪里弄错了
+/aɪm/ /ˈsɑːri/ /ðer; ðər/ /mʌst; məst/ /biː/ /sʌm; səm/ /mɪˈsteɪk/
 
 15
-Hi , I would like to increase my internet data
-你好，我想增加我的上网流量
-/haɪ/ /aɪ/ /wʊd/ /laɪk/ /tuː; tə/ /ɪnˈkriːs/ /maɪ/ /ˈɪntərnɛt/ /ˈdeɪtə/
+It says here
+这里说
+/ɪt/ /sez/ /hɪr/
 
 16
-I'll
-我将
-/aɪl/
+that you charged over $500 on it yesterday
+你昨天在上面花费了超过500美元
+/ðæt/ /juː; jʊ/ /tʃɑrdʒd/ /ˈoʊvər/ /faɪv 'hʌndrəd/ /ɑːn/ /ɪt/ /ˈjestərdeɪ/
 
 17
-be glad
-很高兴
-/biː/ /ɡlæd/
+It says here that you charged over $500 on it yesterday
+这里显示您昨天在这上面消费了超过500美元
+/ɪt/ /sez/ /hɪr/ /ðæt/ /juː; jʊ/ /tʃɑrdʒd/ /ˈoʊvər/ /faɪv 'hʌndrəd/ /ɑːn/ /ɪt/ /ˈjestərdeɪ/
 
 18
-to help
-帮助
-/tuː; tə/ /help/
+That can't be right
+这不可能是对的
+/ðæt/ /kænt/ /biː/ /raɪt/
 
 19
-you
-你
-/juː; jʊ/
+I have not used it in months
+我已经好几个月没用它了
+/aɪ/ /hæv/ /nɑːt/ /juzd/ /ɪt/ /ɪn/ /mʌnθs/
 
 20
-with that
-那件事
-/wɪð; wɪθ/ /ðæt/
+That can't be right . I have not used it in months
+这不可能我已经好几个月没用过它了。
+/ðæt/ /kænt/ /biː/ /raɪt/ /aɪ/ /hæv/ /nɑːt/ /juzd/ /ɪt/ /ɪn/ /mʌnθs/
 
 21
-I'll be glad to help you with that
-我很乐意帮你解决这个问题
-/aɪl/ /biː/ /ɡlæd/ /tuː; tə/ /help/ /juː; jʊ/ /wɪð; wɪθ/ /ðæt/
+Are you saying
+你是在说
+/ɑr/ /juː; jʊ/ /ˈseɪɪŋ/
 
 22
-What's
-什么是
-/wʌts/
+you did not make that charge ?
+你没有进行那次收费吗？
+/juː; jʊ/ /dɪd/ /nɑːt/ /meɪk/ /ðæt/ /tʃɑrdʒ/
 
 23
-your account number
-你的账号
-/jʊr; jər/ /əˈkaʊnt/ /ˈnʌmbɚ/
+Are you saying you did not make that charge ?
+你是说你没有进行那笔消费吗？
+/ɑr/ /juː; jʊ/ /ˈseɪɪŋ/ /juː; jʊ/ /dɪd/ /nɑːt/ /meɪk/ /ðæt/ /tʃɑrdʒ/
 
 24
-What's your account number ?
-你的账号是多少？
-/wʌts/ /jʊr; jər/ /əˈkaʊnt/ /ˈnʌmbɚ/
+That is exactly what I am saying
+这正是我想说的
+/ðæt/ /ɪz/ /ɪɡˈzæktli/ /wʌt/ /aɪ/ /æm; əm/ /ˈseɪɪŋ/
 
 25
-I'll be glad to help you with that . What's your account number ?
-我很乐意帮您处理这个问题请问您的账号是多少？
-/aɪl/ /biː/ /ɡlæd/ /tuː; tə/ /help/ /juː; jʊ/ /wɪð; wɪθ/ /ðæt/ /wʌts/ /jʊr; jər/ /əˈkaʊnt/ /ˈnʌmbɚ/
+Looking closer
+仔细一看,
+/ˈlʊkɪŋ/ /ˈkloʊzər/
 
 26
-I
-我
-/aɪ/
+this charge was made
+这笔费用是在
+/ðɪs/ /tʃɑrdʒ/ /wʌz; wəz/ /meɪd/
 
 27
-don't have
-没有
-/doʊnt/ /hæv/
+Looking closer , this charge was made
+仔细一看，这笔消费发生在
+/ˈlʊkɪŋ/ /ˈkloʊzər/ /ðɪs/ /tʃɑrdʒ/ /wʌz; wəz/ /meɪd/
 
 28
-my account number
-我的账号
-/maɪ/ /əˈkaʊnt/ /ˈnʌmbɚ/
+in a different city
+另一个城市产生的
+/ɪn/ /ə; eɪ/ /ˈdɪfrənt/ /ˈsɪti/
 
 29
-with me
-在身边
-/wɪð; wɪθ/ /miː/
+Looking closer , this charge was made in a different city
+仔细一看，这笔消费是在另一个城市完成的
+/ˈlʊkɪŋ/ /ˈkloʊzər/ /ðɪs/ /tʃɑrdʒ/ /wʌz; wəz/ /meɪd/ /ɪn/ /ə; eɪ/ /ˈdɪfrənt/ /ˈsɪti/
 
 30
-I don't have my account number with me
-我手头没有我的账号,
-/aɪ/ /doʊnt/ /hæv/ /maɪ/ /əˈkaʊnt/ /ˈnʌmbɚ/ /wɪð; wɪθ/ /miː/
+I am looking for my card now
+我正在找我的卡
+/aɪ/ /æm; əm/ /ˈlʊkɪŋ/ /fɔːr; fər/ /maɪ/ /kɑːrd/ /naʊ/
 
 31
-but
-但是
-/bʌt/
+and I cannot find it
+但我找不到它
+/ænd; ənd/ /aɪ/ /ˈkænɑːt/ /faɪnd/ /ɪt/
 
 32
-my phone number
-我的电话号码
-/maɪ/ /foʊn/ /ˈnʌmbɚ/
+I am looking for my card now and I cannot find it
+我正在找我的卡，但怎么也找不到
+/aɪ/ /æm; əm/ /ˈlʊkɪŋ/ /fɔːr; fər/ /maɪ/ /kɑːrd/ /naʊ/ /ænd; ənd/ /aɪ/ /ˈkænɑːt/ /faɪnd/ /ɪt/
 
 33
-is
-是
-/ɪz/
+This calls for further investigation
+这需要进一步调查
+/ðɪs/ /kɔːlz/ /fɔːr; fər/ /ˈfɜːrðər/ /ˌɪn.vɛstɪˈɡeɪʃ.ən/
 
 34
-310-865-9274
-310-865-9274
-/310-865-9274/
+I assure you
+我向你保证
+/aɪ/ /əˈʃʊr/ /juː; jʊ/
 
 35
-but my phone number is 310-865-9274
-但我的电话号码是310-865-9274.
-/bʌt/ /maɪ/ /foʊn/ /ˈnʌmbɚ/ /ɪz/ /310-865-9274/
+I did not make the purchase
+我没有进行这次购买
+/aɪ/ /dɪd/ /nɑːt/ /meɪk/ /ðə/ /ˈpɜːrtʃəs/
 
 36
-I don't have my account number with me , but my phone number is 310-865-9274
-我手边没有我的账号，但我的电话号码是310-865-9274
-/aɪ/ /doʊnt/ /hæv/ /maɪ/ /əˈkaʊnt/ /ˈnʌmbɚ/ /wɪð; wɪθ/ /miː/ /bʌt/ /maɪ/ /foʊn/ /ˈnʌmbɚ/ /ɪz/ /310-865-9274/
-
-37
-Alright
-好的
-/ɔːlˈraɪt/
-
-38
-I
-我
-/aɪ/
-
-39
-see
-看到
-/siː/
-
-40
-you
-你
-/juː; jʊ/
-
-41
-use
-使用
-/juːz/
-
-42
-our mobile service
-我们的移动服务
-/aʊr/ /ˈmoʊbəl/ /ˈsɜːrvɪs/
-
-43
-I see you use our mobile service
-我看到你使用了我们的移动服务
-/aɪ/ /siː/ /juː; jʊ/ /juːz/ /aʊr/ /ˈmoʊbəl/ /ˈsɜːrvɪs/
-
-44
-Alright . I see you use our mobile service
-好的我看到您使用的是我们的移动服务。
-/ɔːlˈraɪt/ /aɪ/ /siː/ /juː; jʊ/ /juːz/ /aʊr/ /ˈmoʊbəl/ /ˈsɜːrvɪs/
-
-45
-Yes
-是的
-/jes/
-
-46
-I
-我
-/aɪ/
-
-47
-also have
-也有
-/ˈɔːlsoʊ/ /hæv/
-
-48
-a landline
-一部座机
-/ə; eɪ/ /ˈlændlaɪn/
-
-49
-Yes , I also have a landline
-是的，我还有一部座机
-/jes/ /aɪ/ /ˈɔːlsoʊ/ /hæv/ /ə; eɪ/ /ˈlændlaɪn/
-
-50
-According to
-根据
-/əˈkɔːrdɪŋ/ /tuː; tə/
-
-51
-my file
-我的文件
-/maɪ/ /faɪl/
-
-52
-According to my file
-根据我的文件
-/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/
-
-53
-you
-你
-/juː; jʊ/
-
-54
-are eligible
-有资格
-/ɑr/ /ˈelɪdʒəb(ə)l/
-
-55
-you are eligible
-您有资格
-/juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/
-
-56
-According to my file , you are eligible
-根据我的记录，您符合资格
-/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/ /juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/
-
-57
-for
-为了
-/fɔːr; fər/
-
-58
-an upgrade
-一次升级
-/æn; ən/ /ˌʌpˈɡreɪd/
-
-59
-for an upgrade
-升级
-/fɔːr; fər/ /æn; ən/ /ˌʌpˈɡreɪd/
-
-60
-According to my file , you are eligible for an upgrade
-根据我的记录，您符合升级条件
-/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/ /juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/ /fɔːr; fər/ /æn; ən/ /ˌʌpˈɡreɪd/
-
-61
-to
-到
-/tuː; tə/
-
-62
-our
-我们的
-/aʊr/
-
-63
-new service
-新服务
-/nuː/ /ˈsɜːrvɪs/
-
-64
-to our new service
-到我们的新服务
-/tuː; tə/ /aʊr/ /nuː/ /ˈsɜːrvɪs/
-
-65
-According to my file , you are eligible for an upgrade to our new service
-根据我的档案记录，您有资格升级到我们的新服务
-/əˈkɔːrdɪŋ/ /tuː; tə/ /maɪ/ /faɪl/ /juː; jʊ/ /ɑr/ /ˈelɪdʒəb(ə)l/ /fɔːr; fər/ /æn; ən/ /ˌʌpˈɡreɪd/ /tuː; tə/ /aʊr/ /nuː/ /ˈsɜːrvɪs/
-
-66
-What
-什么
-/wʌt/
-
-67
-does
-do（第三人称单数现在时）: 构成疑问句
-/dʌz/
-
-68
-this new service
-这项新服务
-/ðɪs/ /nuː/ /ˈsɜːrvɪs/
-
-69
-include
-包括
-/ɪnˈkluːd/
-
-70
-What does this new service include ?
-这项新服务包含哪些内容？
-/wʌt/ /dʌz/ /ðɪs/ /nuː/ /ˈsɜːrvɪs/ /ɪnˈkluːd/
-
-71
-It
-它
-/ɪt/
-
-72
-makes
-make（第三人称单数）: 使
-/meɪks/
-
-73
-the internet connection
-互联网连接
-/ðə/ /ˈɪntərnɛt/ /kəˈnekʃ(ə)n/
-
-74
-twice as fast
-快两倍
-/twaɪs/ /æz; əz/ /fæst/
-
-75
-It makes the internet connection twice as fast
-它使互联网连接速度提升了一倍
-/ɪt/ /meɪks/ /ðə/ /ˈɪntərnɛt/ /kəˈnekʃ(ə)n/ /twaɪs/ /æz; əz/ /fæst/
-
-76
-That
-那个
-/ðæt/
-
-77
-sounds
-sound（第三人称单数）: 听起来
-/saʊndz/
-
-78
-perfect
-完美的
-/ˈpɜːrfɪkt/
-
-79
-That sounds perfect
-听起来很完美
-/ðæt/ /saʊndz/ /ˈpɜːrfɪkt/
-
-80
-Is
-be（第三人称单数）: 是
-/ɪz/
-
-81
-there
-那里
-/ðer; ðər/
-
-82
-also
-也
-/ˈɔːlsoʊ/
-
-83
-a price increase
-价格上涨
-/ə; eɪ/ /praɪs/ /ɪnˈkriːs/
-
-84
-Is there also a price increase ?
-价格也会上涨吗？
-/ɪz/ /ðer; ðər/ /ˈɔːlsoʊ/ /ə; eɪ/ /praɪs/ /ɪnˈkriːs/
-
-85
-That sounds perfect . Is there also a price increase ?
-听起来很完美价格是否也有所上涨？
-/ðæt/ /saʊndz/ /ˈpɜːrfɪkt/ /ɪz/ /ðer; ðər/ /ˈɔːlsoʊ/ /ə; eɪ/ /praɪs/ /ɪnˈkriːs/
-
-86
-Yes
-是的
-/jes/
-
-87
-that
-那个
-/ðæt/
-
-88
-will be
-将是
-/wɪl/ /biː/
-
-89
-$5 more
-多5美元
-/faɪv/ /mɔːr/
-
-90
-per month
-每月
-/pər/ /mʌnθ/
-
-91
-Yes , that will be $5 more per month
-是的，每月需额外支付5美元
-/jes/ /ðæt/ /wɪl/ /biː/ /faɪv/ /mɔːr/ /pər/ /mʌnθ/
-
-92
-Sign me up
-给我报名
-/saɪn/ /miː/ /ʌp/
-
-93
-right away
-立刻
-/raɪt/ /əˈweɪ/
-
-94
-Sign me up right away
-立刻给我报名
-/saɪn/ /miː/ /ʌp/ /raɪt/ /əˈweɪ/
+I assure you I did not make the purchase
+我向您保证我没有购买
+/aɪ/ /əˈʃʊr/ /juː; jʊ/ /aɪ/ /dɪd/ /nɑːt/ /meɪk/ /ðə/ /ˈpɜːrtʃəs/
