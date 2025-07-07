@@ -4,176 +4,166 @@ Hello
 /həˈloʊ/
 
 2
-Is this the Smith residence ?
-这里是史密斯家吗？
-/ɪz/ /ðɪs/ /ðə/ /smɪθ/ /ˈrezɪdəns/
+how can I help you today ?
+今天我能如何帮助您？
+/haʊ/ /kæn/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
 
 3
-Hello . Is this the Smith residence ?
-你好，这里是史密斯家吗？
-/həˈloʊ/ /ɪz/ /ðɪs/ /ðə/ /smɪθ/ /ˈrezɪdəns/
+Hello , how can I help you today ?
+您好，今天有什么可以帮您的吗？
+/həˈloʊ/ /haʊ/ /kæn/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
 
 4
-Yes it is
-是的
-/jes/ /ɪt/ /ɪz/
+I'm very upset
+我非常不满
+/aɪm/ /ˈveri/ /ˌʌpˈset/
 
 5
-May I ask who's calling ?
-请问您是哪位？
-/meɪ/ /aɪ/ /æsk/ /huz/ /ˈkɔːlɪŋ/
+with the quality of your service
+对你们的服务质量
+/wɪð; wɪθ/ /ðə/ /ˈkwɑːləti/ /ʌv/ /jʊr; jər/ /ˈsɜːrvɪs/
 
 6
-Yes it is . May I ask who's calling ?
-是的请问您是哪位？
-/jes/ /ɪt/ /ɪz/ /meɪ/ /aɪ/ /æsk/ /huz/ /ˈkɔːlɪŋ/
+I'm very upset with the quality of your service
+我对你们的服务质量感到非常不满
+/aɪm/ /ˈveri/ /ˌʌpˈset/ /wɪð; wɪθ/ /ðə/ /ˈkwɑːləti/ /ʌv/ /jʊr; jər/ /ˈsɜːrvɪs/
 
 7
-This is your bank
-这是您的银行
-/ðɪs/ /ɪz/ /jʊr; jər/ /bæŋk/
-
-8
-calling in regards to
-来电是关于
-/ˈkɔːlɪŋ/ /ɪn/ /rɪˈɡɑːrdz/ /tuː; tə/
-
-9
-This is your bank calling in regards to
-这里是您的银行来电，关于
-/ðɪs/ /ɪz/ /jʊr; jər/ /bæŋk/ /ˈkɔːlɪŋ/ /ɪn/ /rɪˈɡɑːrdz/ /tuː; tə/
-
-10
-an overcharge on your credit card
-您的信用卡上的一笔超额收费
-/æn; ən/ /ˌoʊvərˈtʃɑːrdʒ/ /ɑːn/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/
-
-11
-This is your bank calling in regards to an overcharge on your credit card
-这里是您的银行来电，关于您的信用卡存在超额扣款的问题
-/ðɪs/ /ɪz/ /jʊr; jər/ /bæŋk/ /ˈkɔːlɪŋ/ /ɪn/ /rɪˈɡɑːrdz/ /tuː; tə/ /æn; ən/ /ˌoʊvərˈtʃɑːrdʒ/ /ɑːn/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/
-
-12
 I'm sorry
-我很抱歉
+抱歉
 /aɪm/ /ˈsɑːri/
 
+8
+what seems to be the problem ?
+有什么问题吗？
+/wʌt/ /siːmz/ /tuː; tə/ /biː/ /ðə/ /ˈprɑːbləm/
+
+9
+I'm sorry , what seems to be the problem ?
+抱歉，请问是什么问题呢？
+/aɪm/ /ˈsɑːri/ /wʌt/ /siːmz/ /tuː; tə/ /biː/ /ðə/ /ˈprɑːbləm/
+
+10
+My internet service did not work
+我的互联网服务无法使用
+/maɪ/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/ /dɪd/ /nɑːt/ /wɜrk/
+
+11
+for three days
+持续了三天
+/fɔːr; fər/ /θriː/ /deɪz/
+
+12
+My internet service did not work for three days
+我的网络服务中断了三天
+/maɪ/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/ /dɪd/ /nɑːt/ /wɜrk/ /fɔːr; fər/ /θriː/ /deɪz/
+
 13
-There must be some mistake
-一定是哪里弄错了
-/ðer; ðər/ /mʌst; məst/ /biː/ /sʌm; səm/ /mɪˈsteɪk/
+My records say
+我的记录显示
+/maɪ/ /ˈrekərdz/ /seɪ/
 
 14
-I'm sorry . There must be some mistake
-抱歉，一定是哪里弄错了
-/aɪm/ /ˈsɑːri/ /ðer; ðər/ /mʌst; məst/ /biː/ /sʌm; səm/ /mɪˈsteɪk/
+a technician visited your area yesterday
+一位技术员昨天到访了您所在的区域
+/ə; eɪ/ /tekˈnɪʃ(ə)n/ /ˈvɪzɪtɪd/ /jʊr; jər/ /ˈeriə/ /ˈjestərdeɪ/
 
 15
-It says here
-这里说
-/ɪt/ /sez/ /hɪr/
+My records say a technician visited your area yesterday
+我的记录显示昨天有一名技术人员去过您所在的区域
+/maɪ/ /ˈrekərdz/ /seɪ/ /ə; eɪ/ /tekˈnɪʃ(ə)n/ /ˈvɪzɪtɪd/ /jʊr; jər/ /ˈeriə/ /ˈjestərdeɪ/
 
 16
-that you charged over $500 on it yesterday
-你昨天在上面花费了超过500美元
-/ðæt/ /juː; jʊ/ /tʃɑrdʒd/ /ˈoʊvər/ /faɪv 'hʌndrəd/ /ɑːn/ /ɪt/ /ˈjestərdeɪ/
+Yes , he installed a new modem
+是的，他安装了一个新的调制解调器
+/jes/ /hiː/ /ɪnˈstɔːld/ /ə; eɪ/ /nuː/ /ˈmoʊdəm/
 
 17
-It says here that you charged over $500 on it yesterday
-这里显示您昨天在这上面消费了超过500美元
-/ɪt/ /sez/ /hɪr/ /ðæt/ /juː; jʊ/ /tʃɑrdʒd/ /ˈoʊvər/ /faɪv 'hʌndrəd/ /ɑːn/ /ɪt/ /ˈjestərdeɪ/
+Did it solve the problem ?
+问题解决了吗？
+/dɪd/ /ɪt/ /sɑːlv/ /ðə/ /ˈprɑːbləm/
 
 18
-That can't be right
-这不可能是对的
-/ðæt/ /kænt/ /biː/ /raɪt/
+Yes , but I was overcharged
+是的，但我被多收了钱
+/jes/ /bʌt/ /aɪ/ /wʌz; wəz/ /ˌoʊvərˈtʃɑːrdʒd/
 
 19
-I have not used it in months
-我已经好几个月没用它了
-/aɪ/ /hæv/ /nɑːt/ /juzd/ /ɪt/ /ɪn/ /mʌnθs/
+for internet service
+因为网络服务
+/fɔːr; fər/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/
 
 20
-That can't be right . I have not used it in months
-这不可能我已经好几个月没用过它了。
-/ðæt/ /kænt/ /biː/ /raɪt/ /aɪ/ /hæv/ /nɑːt/ /juzd/ /ɪt/ /ɪn/ /mʌnθs/
+Yes , but I was overcharged for internet service
+是的，但我的网络服务被多收费了
+/jes/ /bʌt/ /aɪ/ /wʌz; wəz/ /ˌoʊvərˈtʃɑːrdʒd/ /fɔːr; fər/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/
 
 21
-Are you saying
-你是在说
-/ɑr/ /juː; jʊ/ /ˈseɪɪŋ/
+Sorry about that
+对此表示抱歉
+/ˈsɑːri/ /əˈbaʊt/ /ðæt/
 
 22
-you did not make that charge ?
-你没有进行那次收费吗？
-/juː; jʊ/ /dɪd/ /nɑːt/ /meɪk/ /ðæt/ /tʃɑrdʒ/
+I'll give you a credit
+我会给你一笔信用额
+/aɪl/ /ɡɪv/ /juː; jʊ/ /ə; eɪ/ /ˈkredɪt/
 
 23
-Are you saying you did not make that charge ?
-你是说你没有进行那笔消费吗？
-/ɑr/ /juː; jʊ/ /ˈseɪɪŋ/ /juː; jʊ/ /dɪd/ /nɑːt/ /meɪk/ /ðæt/ /tʃɑrdʒ/
+Sorry about that . I'll give you a credit
+对此我很抱歉我会给你记上一笔
+/ˈsɑːri/ /əˈbaʊt/ /ðæt/ /aɪl/ /ɡɪv/ /juː; jʊ/ /ə; eɪ/ /ˈkredɪt/
 
 24
-That is exactly what I am saying
-这正是我想说的
-/ðæt/ /ɪz/ /ɪɡˈzæktli/ /wʌt/ /aɪ/ /æm; əm/ /ˈseɪɪŋ/
+for the three days
+为期三天
+/fɔːr; fər/ /ðə/ /θriː/ /deɪz/
 
 25
-Looking closer
-仔细一看,
-/ˈlʊkɪŋ/ /ˈkloʊzər/
+Sorry about that . I'll give you a credit for the three days
+对此我很抱歉我会把那三天的费用退还给你。
+/ˈsɑːri/ /əˈbaʊt/ /ðæt/ /aɪl/ /ɡɪv/ /juː; jʊ/ /ə; eɪ/ /ˈkredɪt/ /fɔːr; fər/ /ðə/ /θriː/ /deɪz/
 
 26
-this charge was made
-这笔费用是在
-/ðɪs/ /tʃɑrdʒ/ /wʌz; wəz/ /meɪd/
+I was sold
+我被推销了
+/aɪ/ /wʌz; wəz/ /soʊld/
 
 27
-Looking closer , this charge was made
-仔细一看，这笔消费发生在
-/ˈlʊkɪŋ/ /ˈkloʊzər/ /ðɪs/ /tʃɑrdʒ/ /wʌz; wəz/ /meɪd/
+wireless service unavailable
+无法提供的无线服务
+/ˈwaɪərləs/ /ˈsɜːrvɪs/ /ˌʌnəˈveɪləb(ə)l/
 
 28
-in a different city
-另一个城市产生的
-/ɪn/ /ə; eɪ/ /ˈdɪfrənt/ /ˈsɪti/
+I was sold wireless service unavailable
+我被告知无线服务不可用
+/aɪ/ /wʌz; wəz/ /soʊld/ /ˈwaɪərləs/ /ˈsɜːrvɪs/ /ˌʌnəˈveɪləb(ə)l/
 
 29
-Looking closer , this charge was made in a different city
-仔细一看，这笔消费是在另一个城市完成的
-/ˈlʊkɪŋ/ /ˈkloʊzər/ /ðɪs/ /tʃɑrdʒ/ /wʌz; wəz/ /meɪd/ /ɪn/ /ə; eɪ/ /ˈdɪfrənt/ /ˈsɪti/
+in my area
+在我的地区
+/ɪn/ /maɪ/ /ˈeriə/
 
 30
-I am looking for my card now
-我正在找我的卡
-/aɪ/ /æm; əm/ /ˈlʊkɪŋ/ /fɔːr; fər/ /maɪ/ /kɑːrd/ /naʊ/
+I was sold wireless service unavailable in my area
+我购买的无线服务在我所在的区域无法使用
+/aɪ/ /wʌz; wəz/ /soʊld/ /ˈwaɪərləs/ /ˈsɜːrvɪs/ /ˌʌnəˈveɪləb(ə)l/ /ɪn/ /maɪ/ /ˈeriə/
 
 31
-and I cannot find it
-但我找不到它
-/ænd; ənd/ /aɪ/ /ˈkænɑːt/ /faɪnd/ /ɪt/
+I see it here
+我在这里看到了
+/aɪ/ /siː/ /ɪt/ /hɪr/
 
 32
-I am looking for my card now and I cannot find it
-我正在找我的卡，但怎么也找不到
-/aɪ/ /æm; əm/ /ˈlʊkɪŋ/ /fɔːr; fər/ /maɪ/ /kɑːrd/ /naʊ/ /ænd; ənd/ /aɪ/ /ˈkænɑːt/ /faɪnd/ /ɪt/
+We charged you $5 extra a month
+我们每月向你多收取了5美元
+/wiː; wi/ /tʃɑrdʒd/ /juː; jʊ/ /faɪv/ /ˈekstrə/ /ə; eɪ/ /mʌnθ/
 
 33
-This calls for further investigation
-这需要进一步调查
-/ðɪs/ /kɔːlz/ /fɔːr; fər/ /ˈfɜːrðər/ /ˌɪn.vɛstɪˈɡeɪʃ.ən/
+I see it here . We charged you $5 extra a month
+我在这里看到了我们每月向您多收取了5美元。
+/aɪ/ /siː/ /ɪt/ /hɪr/ /wiː; wi/ /tʃɑrdʒd/ /juː; jʊ/ /faɪv/ /ˈekstrə/ /ə; eɪ/ /mʌnθ/
 
 34
-I assure you
-我向你保证
-/aɪ/ /əˈʃʊr/ /juː; jʊ/
-
-35
-I did not make the purchase
-我没有进行这次购买
-/aɪ/ /dɪd/ /nɑːt/ /meɪk/ /ðə/ /ˈpɜːrtʃəs/
-
-36
-I assure you I did not make the purchase
-我向您保证我没有购买
-/aɪ/ /əˈʃʊr/ /juː; jʊ/ /aɪ/ /dɪd/ /nɑːt/ /meɪk/ /ðə/ /ˈpɜːrtʃəs/
+Yes , kindly return my money , please
+好的，请把我的钱退还给我
+/jes/ /ˈkaɪndli/ /rɪˈtɜːrn/ /maɪ/ /ˈmʌni/ /pliːz/
