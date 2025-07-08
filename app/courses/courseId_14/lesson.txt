@@ -1,169 +1,229 @@
 1
-Hello
+Hi
 你好
-/həˈloʊ/
+/haɪ/
 
 2
-how can I help you today ?
-今天我能如何帮助您？
-/haʊ/ /kæn/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
+I would like to know
+我想知道
+/aɪ/ /wʊd/ /laɪk/ /tuː; tə/ /noʊ/
 
 3
-Hello , how can I help you today ?
-您好，今天有什么可以帮您的吗？
-/həˈloʊ/ /haʊ/ /kæn/ /aɪ/ /help/ /juː; jʊ/ /təˈdeɪ/
+Hi . I would like to know
+你好我想知道
+/haɪ/ /aɪ/ /wʊd/ /laɪk/ /tuː; tə/ /noʊ/
 
 4
-I'm very upset
-我非常不满
-/aɪm/ /ˈveri/ /ˌʌpˈset/
+my credit balance
+我的信用余额
+/maɪ/ /ˈkredɪt/ /ˈbæləns/
 
 5
-with the quality of your service
-对你们的服务质量
-/wɪð; wɪθ/ /ðə/ /ˈkwɑːləti/ /ʌv/ /jʊr; jər/ /ˈsɜːrvɪs/
+Hi . I would like to know my credit balance
+你好，我想查询我的信用余额
+/haɪ/ /aɪ/ /wʊd/ /laɪk/ /tuː; tə/ /noʊ/ /maɪ/ /ˈkredɪt/ /ˈbæləns/
 
 6
-I'm very upset with the quality of your service
-我对你们的服务质量感到非常不满
-/aɪm/ /ˈveri/ /ˌʌpˈset/ /wɪð; wɪθ/ /ðə/ /ˈkwɑːləti/ /ʌv/ /jʊr; jər/ /ˈsɜːrvɪs/
+Of course
+当然
+/ʌv/ /kɔːrs/
 
 7
-I'm sorry
-抱歉
-/aɪm/ /ˈsɑːri/
+May I have your credit card number ?
+可以告诉我您的信用卡号码吗？
+/meɪ/ /aɪ/ /hæv/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/ /ˈnʌmbɚ/
 
 8
-what seems to be the problem ?
-有什么问题吗？
-/wʌt/ /siːmz/ /tuː; tə/ /biː/ /ðə/ /ˈprɑːbləm/
+Of course . May I have your credit card number ?
+当然请提供您的信用卡号码？
+/ʌv/ /kɔːrs/ /meɪ/ /aɪ/ /hæv/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/ /ˈnʌmbɚ/
 
 9
-I'm sorry , what seems to be the problem ?
-抱歉，请问是什么问题呢？
-/aɪm/ /ˈsɑːri/ /wʌt/ /siːmz/ /tuː; tə/ /biː/ /ðə/ /ˈprɑːbləm/
+Yes
+是的
+/jes/
 
 10
-My internet service did not work
-我的互联网服务无法使用
-/maɪ/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/ /dɪd/ /nɑːt/ /wɜrk/
+It's 512-879-346
+号码是512-879-346
+/ɪts/ /512-879-346/
 
 11
-for three days
-持续了三天
-/fɔːr; fər/ /θriː/ /deɪz/
+Yes . It's 512-879-346
+是的号码是512-879-346。
+/jes/ /ɪts/ /512-879-346/
 
 12
-My internet service did not work for three days
-我的网络服务中断了三天
-/maɪ/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/ /dɪd/ /nɑːt/ /wɜrk/ /fɔːr; fər/ /θriː/ /deɪz/
+My name is John
+我的名字是John
+/maɪ/ /neɪm/ /ɪz/ /dʒɑːn/
 
 13
-My records say
-我的记录显示
-/maɪ/ /ˈrekərdz/ /seɪ/
+Yes . It's 512-879-346 . My name is John
+是的号码是512-879-346。我叫John。
+/jes/ /ɪts/ /512-879-346/ /maɪ/ /neɪm/ /ɪz/ /dʒɑːn/
 
 14
-a technician visited your area yesterday
-一位技术员昨天到访了您所在的区域
-/ə; eɪ/ /tekˈnɪʃ(ə)n/ /ˈvɪzɪtɪd/ /jʊr; jər/ /ˈeriə/ /ˈjestərdeɪ/
+Alright John
+好的 John
+/ɔːlˈraɪt/ /dʒɑːn/
 
 15
-My records say a technician visited your area yesterday
-我的记录显示昨天有一名技术人员去过您所在的区域
-/maɪ/ /ˈrekərdz/ /seɪ/ /ə; eɪ/ /tekˈnɪʃ(ə)n/ /ˈvɪzɪtɪd/ /jʊr; jər/ /ˈeriə/ /ˈjestərdeɪ/
+You currently have no dues
+你目前没有欠款
+/juː; jʊ/ /ˈkɜːrəntli/ /hæv/ /noʊ/ /djuːz/
 
 16
-Yes , he installed a new modem
-是的，他安装了一个新的调制解调器
-/jes/ /hiː/ /ɪnˈstɔːld/ /ə; eɪ/ /nuː/ /ˈmoʊdəm/
+Alright John . You currently have no dues
+好的约翰，你目前没有欠款
+/ɔːlˈraɪt/ /dʒɑːn/ /juː; jʊ/ /ˈkɜːrəntli/ /hæv/ /noʊ/ /djuːz/
 
 17
-Did it solve the problem ?
-问题解决了吗？
-/dɪd/ /ɪt/ /sɑːlv/ /ðə/ /ˈprɑːbləm/
+on your credit card
+在你的信用卡上
+/ɑːn/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/
 
 18
-Yes , but I was overcharged
-是的，但我被多收了钱
-/jes/ /bʌt/ /aɪ/ /wʌz; wəz/ /ˌoʊvərˈtʃɑːrdʒd/
+Alright John . You currently have no dues on your credit card
+好的 John你目前信用卡没有欠款。
+/ɔːlˈraɪt/ /dʒɑːn/ /juː; jʊ/ /ˈkɜːrəntli/ /hæv/ /noʊ/ /djuːz/ /ɑːn/ /jʊr; jər/ /ˈkredɪt/ /kɑːrd/
 
 19
-for internet service
-因为网络服务
-/fɔːr; fər/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/
+Really ?
+真的吗？
+/ˈriːəli/
 
 20
-Yes , but I was overcharged for internet service
-是的，但我的网络服务被多收费了
-/jes/ /bʌt/ /aɪ/ /wʌz; wəz/ /ˌoʊvərˈtʃɑːrdʒd/ /fɔːr; fər/ /ˈɪntərnɛt/ /ˈsɜːrvɪs/
+I finally paid it off ?
+我终于还清了吗？
+/aɪ/ /ˈfaɪnəli/ /peɪd/ /ɪt/ /ɔːf/
 
 21
-Sorry about that
-对此表示抱歉
-/ˈsɑːri/ /əˈbaʊt/ /ðæt/
+Really ? I finally paid it off ?
+真的吗？我终于还清了？
+/ˈriːəli/ /aɪ/ /ˈfaɪnəli/ /peɪd/ /ɪt/ /ɔːf/
 
 22
-I'll give you a credit
-我会给你一笔信用额
-/aɪl/ /ɡɪv/ /juː; jʊ/ /ə; eɪ/ /ˈkredɪt/
+Yes sir
+是的，先生
+/jes/ /sɜːr/
 
 23
-Sorry about that . I'll give you a credit
-对此我很抱歉我会给你记上一笔
-/ˈsɑːri/ /əˈbaʊt/ /ðæt/ /aɪl/ /ɡɪv/ /juː; jʊ/ /ə; eɪ/ /ˈkredɪt/
+Your balance is officially zero
+您的余额正式为零
+/jʊr; jər/ /ˈbæləns/ /ɪz/ /əˈfɪʃəli/ /ˈzɪroʊ/
 
 24
-for the three days
-为期三天
-/fɔːr; fər/ /ðə/ /θriː/ /deɪz/
+Yes sir . Your balance is officially zero
+是的，先生您的余额正式归零了。
+/jes/ /sɜːr/ /jʊr; jər/ /ˈbæləns/ /ɪz/ /əˈfɪʃəli/ /ˈzɪroʊ/
 
 25
-Sorry about that . I'll give you a credit for the three days
-对此我很抱歉我会把那三天的费用退还给你。
-/ˈsɑːri/ /əˈbaʊt/ /ðæt/ /aɪl/ /ɡɪv/ /juː; jʊ/ /ə; eɪ/ /ˈkredɪt/ /fɔːr; fər/ /ðə/ /θriː/ /deɪz/
+I must admit
+我必须承认
+/aɪ/ /mʌst; məst/ /ædˈmɪt/
 
 26
-I was sold
-我被推销了
-/aɪ/ /wʌz; wəz/ /soʊld/
+I'm proud of myself
+我为自己感到骄傲
+/aɪm/ /praʊd/ /ʌv/ /maɪˈself/
 
 27
-wireless service unavailable
-无法提供的无线服务
-/ˈwaɪərləs/ /ˈsɜːrvɪs/ /ˌʌnəˈveɪləb(ə)l/
+I must admit , I'm proud of myself
+我必须承认，我为自己感到骄傲
+/aɪ/ /mʌst; məst/ /ædˈmɪt/ /aɪm/ /praʊd/ /ʌv/ /maɪˈself/
 
 28
-I was sold wireless service unavailable
-我被告知无线服务不可用
-/aɪ/ /wʌz; wəz/ /soʊld/ /ˈwaɪərləs/ /ˈsɜːrvɪs/ /ˌʌnəˈveɪləb(ə)l/
+Is there anything else
+还有其他事情吗
+/ɪz/ /ðer; ðər/ /ˈɛnɪθɪŋ/ /els/
 
 29
-in my area
-在我的地区
-/ɪn/ /maɪ/ /ˈeriə/
+you'd like me to check , sir ?
+您需要我检查的吗，先生？
+/jʊd/ /laɪk/ /miː/ /tuː; tə/ /tʃek/ /sɜːr/
 
 30
-I was sold wireless service unavailable in my area
-我购买的无线服务在我所在的区域无法使用
-/aɪ/ /wʌz; wəz/ /soʊld/ /ˈwaɪərləs/ /ˈsɜːrvɪs/ /ˌʌnəˈveɪləb(ə)l/ /ɪn/ /maɪ/ /ˈeriə/
+Is there anything else you'd like me to check , sir ?
+先生，还有其他需要我检查的吗？
+/ɪz/ /ðer; ðər/ /ˈɛnɪθɪŋ/ /els/ /jʊd/ /laɪk/ /miː/ /tuː; tə/ /tʃek/ /sɜːr/
 
 31
-I see it here
-我在这里看到了
-/aɪ/ /siː/ /ɪt/ /hɪr/
+Yes
+是的
+/jes/
 
 32
-We charged you $5 extra a month
-我们每月向你多收取了5美元
-/wiː; wi/ /tʃɑrdʒd/ /juː; jʊ/ /faɪv/ /ˈekstrə/ /ə; eɪ/ /mʌnθ/
+Can you change my card status
+你能更改我的卡片状态
+/kæn/ /juː; jʊ/ /tʃeɪndʒ/ /maɪ/ /kɑːrd/ /ˈsteɪtəs; ˈstætəs/
 
 33
-I see it here . We charged you $5 extra a month
-我在这里看到了我们每月向您多收取了5美元。
-/aɪ/ /siː/ /ɪt/ /hɪr/ /wiː; wi/ /tʃɑrdʒd/ /juː; jʊ/ /faɪv/ /ˈekstrə/ /ə; eɪ/ /mʌnθ/
+Yes . Can you change my card status
+好的能否更改我的卡片状态？
+/jes/ /kæn/ /juː; jʊ/ /tʃeɪndʒ/ /maɪ/ /kɑːrd/ /ˈsteɪtəs; ˈstætəs/
 
 34
-Yes , kindly return my money , please
-好的，请把我的钱退还给我
-/jes/ /ˈkaɪndli/ /rɪˈtɜːrn/ /maɪ/ /ˈmʌni/ /pliːz/
+from a college to a normal account ?
+从学生账户转为普通账户吗？
+/frʌm/ /ə; eɪ/ /ˈkɑːlɪdʒ/ /tuː; tə/ /ə; eɪ/ /ˈnɔːrm(ə)l/ /əˈkaʊnt/
+
+35
+Yes . Can you change my card status from a college to a normal account ?
+好的能否将我的卡片状态从学生账户更改为普通账户？
+/jes/ /kæn/ /juː; jʊ/ /tʃeɪndʒ/ /maɪ/ /kɑːrd/ /ˈsteɪtəs; ˈstætəs/ /frʌm/ /ə; eɪ/ /ˈkɑːlɪdʒ/ /tuː; tə/ /ə; eɪ/ /ˈnɔːrm(ə)l/ /əˈkaʊnt/
+
+36
+Of course
+当然
+/ʌv/ /kɔːrs/
+
+37
+But you'll have to come into the bank
+但你必须来银行
+/bʌt/ /jʊl/ /hæv/ /tuː; tə/ /kʌm/ /ˈɪntuː/ /ðə/ /bæŋk/
+
+38
+Of course . But you'll have to come into the bank
+当然但您得来银行一趟
+/ʌv/ /kɔːrs/ /bʌt/ /jʊl/ /hæv/ /tuː; tə/ /kʌm/ /ˈɪntuː/ /ðə/ /bæŋk/
+
+39
+to do that
+才能这样做
+/tuː; tə/ /duː; də/ /ðæt/
+
+40
+Of course . But you'll have to come into the bank to do that
+当然可以但您需要亲自来银行办理。
+/ʌv/ /kɔːrs/ /bʌt/ /jʊl/ /hæv/ /tuː; tə/ /kʌm/ /ˈɪntuː/ /ðə/ /bæŋk/ /tuː; tə/ /duː; də/ /ðæt/
+
+41
+Alright
+好的
+/ɔːlˈraɪt/
+
+42
+I'll be down first thing tomorrow
+我明天一早就下来
+/aɪl/ /biː/ /daʊn/ /fɜːrst/ /θɪŋ/ /təˈmɑːroʊ/
+
+43
+Alright . I'll be down first thing tomorrow
+好的我明天一早就下来。
+/ɔːlˈraɪt/ /aɪl/ /biː/ /daʊn/ /fɜːrst/ /θɪŋ/ /təˈmɑːroʊ/
+
+44
+Sounds good sir
+听起来不错，先生
+/saʊndz/ /ɡʊd/ /sɜːr/
+
+45
+Have a good day
+祝您有愉快的一天
+/hæv/ /ə; eɪ/ /ɡʊd/ /deɪ/
+
+46
+Sounds good sir . Have a good day
+好的先生，祝您有愉快的一天
+/saʊndz/ /ɡʊd/ /sɜːr/ /hæv/ /ə; eɪ/ /ɡʊd/ /deɪ/
