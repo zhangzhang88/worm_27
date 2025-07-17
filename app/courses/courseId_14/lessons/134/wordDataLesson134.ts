@@ -104,9 +104,9 @@ export const sentences: SentenceData[] = [
   },
   {
     "id": "17",
-    "sentence": "You're not gonna ( going to ) be buried ?",
+    "sentence": "You're not gonna be buried ?",
     "chinese": "你不会被埋了吧？",
-    "pronunciation": "/jʊr/ /nɑːt/ /ˈɡənə; ˈgɔːnə/ /ˈɡoʊɪŋ/ /tuː; tə/ /biː/ /ˈberɪd/"
+    "pronunciation": "/jʊr/ /nɑːt/ /ˈɡənə/ /tuː; tə/ /biː/ /ˈberɪd/"
   },
   {
     "id": "18",
