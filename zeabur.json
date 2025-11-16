@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "name": "frontend",
+      "root": ".",
+      "buildCommand": "npm run build",
+      "startCommand": "npm run start",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    },
+    {
+      "name": "backend",
+      "root": "backend",
+      "buildCommand": "pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt",
+      "startCommand": "python3 app.py",
+      "env": {
+        "FLASK_ENV": "production"
+      }
+    }
+  ]
+}
