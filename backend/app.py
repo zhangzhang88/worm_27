@@ -45,17 +45,21 @@ def text_to_speech():
             try:
                 generate_audio(text, voice, cache_file)
             except Exception as e:
-                print(f"Error generating audio: {str(e)}")
+                error_msg = f"Failed to generate audio: {str(e)}"
+                print(error_msg)
+                import traceback
+                traceback.print_exc()
                 if os.path.exists(cache_file):
                     os.remove(cache_file)  # 删除错误的音频文件
-                return jsonify({'error': str(e)}), 500
+                return jsonify({'error': error_msg}), 500
 
         return send_file(cache_file, mimetype='audio/mp3')
     except Exception as e:
-        print(f"Error in text_to_speech: {str(e)}")
+        error_msg = f"Error in text_to_speech: {str(e)}"
+        print(error_msg)
         import traceback
         traceback.print_exc()
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'error': error_msg}), 500
 
 @app.route('/health', methods=['GET'])
 def health_check():
