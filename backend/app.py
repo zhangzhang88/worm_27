@@ -15,20 +15,30 @@ def get_cache_filename(text, voice, cache_dir):
 
 def generate_audio(text, voice, cache_file):
     # 使用 edge-tts 生成音频并保存到缓存文件
-    asyncio.run(edge_tts.Communicate(text, voice).save(cache_file))
+    try:
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        loop.run_until_complete(edge_tts.Communicate(text, voice).save(cache_file))
+        loop.close()
+    except Exception as e:
+        raise RuntimeError(f"Failed to generate audio: {str(e)}") from e
 
 @app.route('/api/tts', methods=['POST'])
 def text_to_speech():
     try:
         data = request.json
-        if not data or 'text' not in data or 'path' not in data or 'sequence' not in data:
-            return jsonify({'error': 'No text, path, or sequence provided'}), 400
+        if not data or 'text' not in data or 'path' not in data:
+            return jsonify({'error': 'No text or path provided'}), 400
 
         text = data['text']
         voice = data.get('voice', 'en-US-AriaNeural')
         cache_dir = data['path']  # 获取动态路径
-        os.makedirs(cache_dir, exist_ok=True)  # 确保目录存在
-        cache_file = get_cache_filename(text, voice, cache_dir)  # 使用哈希命名
+        
+        # 确保缓存目录在 backend 内部，防止路径遍历攻击
+        safe_cache_dir = os.path.join('/tmp', cache_dir)
+        os.makedirs(safe_cache_dir, exist_ok=True)  # 确保目录存在
+        
+        cache_file = get_cache_filename(text, voice, safe_cache_dir)  # 使用哈希命名
 
         # 检查音频文件是否已存在
         if not os.path.exists(cache_file):
@@ -43,6 +53,8 @@ def text_to_speech():
         return send_file(cache_file, mimetype='audio/mp3')
     except Exception as e:
         print(f"Error in text_to_speech: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return jsonify({'error': str(e)}), 500
 
 @app.route('/health', methods=['GET'])
